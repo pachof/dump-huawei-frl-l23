@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="32e2582cec14ef8fc56c487aa2f3343d">
+  <dict>
+    <!--2019-03-15 16:18:51.000-->
+    <int key="allow_mms_property_int">4</int>
+    <!--2019-03-15 16:18:51.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2019-03-15 16:18:51.000-->
+    <bool key="pre_apn_unable">true</bool>
+    <!--2019-04-26 11:49:59.000-->
+    <int key="sms_center_editable_for_slot">0</int>
+  </dict>
+</config>

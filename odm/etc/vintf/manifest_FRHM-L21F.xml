@@ -1,0 +1,31 @@
+<manifest version="1.0" type="device">
+    <hal format="hidl" override="true">
+        <name>android.hardware.nfc</name>
+        <transport>hwbinder</transport>
+        <version>1.2</version>
+        <interface>
+            <name>INfc</name>
+            <instance>default</instance>
+        </interface>
+        <fqname>@1.1::INfc/default</fqname>
+    </hal>
+    <hal format="hidl" override="true">
+        <name>vendor.huawei.hardware.nfc</name>
+        <transport>hwbinder</transport>
+        <version>1.0</version>
+        <interface>
+            <name>IHWNfc</name>
+            <instance>default</instance>
+        </interface>
+        <fqname>@1.0::IHWNfc/default</fqname>
+    </hal>
+    <hal format="hidl" override="true">
+        <name>vendor.huawei.hardware.motion</name>
+        <transport>hwbinder</transport>
+        <version>1.0</version>
+        <interface>
+            <name>IMotion</name>
+            <instance>default</instance>
+        </interface>
+    </hal>
+</manifest>

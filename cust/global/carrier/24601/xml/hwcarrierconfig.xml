@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="5ee7fdc6873bdfdeb6698c05c458b224">
+  <dict>
+    <!--2019-03-15 16:48:00.000-->
+    <bool key="CFNRcChangeWithCFNL">false</bool>
+    <!--2019-03-15 16:48:00.000-->
+    <int key="callWaitingMode">11</int>
+    <!--2019-03-15 16:48:00.000-->
+    <bool key="carrier_default_volte_switch_on_bool">true</bool>
+    <!--2019-03-15 16:48:00.000-->
+    <string key="carrier_volte_hd_icon_flag">00100000</string>
+    <!--2019-07-12 15:45:08.000-->
+    <string key="carrier_vowifi_hd_icon_flag">00100000</string>
+    <!--2019-03-15 16:48:00.000-->
+    <bool key="preferToUseUT">true</bool>
+    <!--2019-03-15 16:48:00.000-->
+    <bool key="support_hold_tone_bool">true</bool>
+    <!--2019-03-15 16:48:00.000-->
+    <int key="utBearType">2</int>
+    <!--2019-03-15 16:48:00.000-->
+    <int key="utBsfPort">80</int>
+    <!--2019-03-15 16:48:00.000-->
+    <int key="utOIRSourceMode">1</int>
+    <!--2019-03-15 16:48:00.000-->
+    <string key="utParamsCfg">0:1,1:1,6:1</string>
+    <!--2019-03-15 16:48:00.000-->
+    <int key="utUseApn">1</int>
+  </dict>
+</config>

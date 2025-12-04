@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="832c80fc76723baa31a5a3c0480194c7">
+  <dict>
+    <!--2019-03-15 16:39:57.000-->
+    <string key="hw_networkname_normal">all,GSM:2G;HSDPA:3G+;HSUPA:3G+;HSPA:3G+;HSPA+:3G+</string>
+    <!--2019-03-15 16:39:57.000-->
+    <int key="max_message_size">614400</int>
+    <!--2019-03-15 16:39:57.000-->
+    <int key="num_match">9</int>
+    <!--2019-11-05 15:06:42.000-->
+    <int key="plmn_esm_flag">0</int>
+    <!--2019-03-15 16:39:57.000-->
+    <int key="sms_to_mms_textthreshold">5</int>
+    <!--2019-03-15 16:39:57.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2019-03-15 16:39:57.000-->
+    <string key="virtual_ecclist_withcard">+112</string>
+    <!--2019-05-20 14:44:48.000-->
+    <string key="voicemail_carrier">NRJ Mobile</string>
+    <!--2019-03-15 16:39:57.000-->
+    <string key="voicemail_number">123</string>
+    <!--2019-03-15 16:39:57.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

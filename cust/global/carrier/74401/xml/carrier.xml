@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="b06dea008e0fefe75f48e906b1939115">
+  <dict>
+    <!--2019-03-15 16:53:43.000-->
+    <string key="default_protocol">IPV4V6</string>
+    <!--2019-03-15 16:53:43.000-->
+    <int key="num_match">7</int>
+    <!--2019-03-15 16:53:43.000-->
+    <string key="roaming_protocol">IPV4V6</string>
+    <!--2019-03-15 16:53:43.000-->
+    <int key="sms_7bit_enabled">1</int>
+    <!--2019-03-15 16:53:43.000-->
+    <string key="voicemail_carrier">Vox</string>
+    <!--2019-03-15 16:53:43.000-->
+    <string key="voicemail_number">*222</string>
+    <!--2019-03-15 16:53:43.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

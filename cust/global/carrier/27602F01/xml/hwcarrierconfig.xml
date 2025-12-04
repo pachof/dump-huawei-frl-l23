@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="f9f617af35624aa87568be96f3d0613d">
+  <dict>
+    <!--2019-03-15 16:21:25.000-->
+    <string key="carrier_volte_hd_icon_flag">00000000</string>
+    <!--2019-03-15 16:21:25.000-->
+    <bool key="carrier_volte_show_switch_bool">false</bool>
+    <!--2019-03-15 16:21:25.000-->
+    <int key="smsToMmsTextThreshold">10</int>
+  </dict>
+</config>

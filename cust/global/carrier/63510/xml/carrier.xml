@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="9e816184bb1c8ea6645704724dd4b852">
+  <dict>
+    <!--2019-03-15 15:47:56.000-->
+    <int key="num_match">9</int>
+    <!--2019-03-15 15:47:56.000-->
+    <string key="voicemail_carrier">MTN Rwanda</string>
+    <!--2019-03-15 15:47:56.000-->
+    <string key="voicemail_number">333</string>
+    <!--2019-03-15 15:47:56.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

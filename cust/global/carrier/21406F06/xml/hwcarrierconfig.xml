@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="8d60c9003e2b618e4ded2b4983a9eaa9">
+  <dict>
+    <!--2019-03-15 16:36:16.000-->
+    <bool key="groupChatDefaultsToMMS">false</bool>
+    <!--2019-03-15 16:36:16.000-->
+    <string key="hide_violence_number_from_mcc">34-016</string>
+    <!--2019-03-15 16:36:16.000-->
+    <bool key="smsUsesSimpleCharactersOnly">true</bool>
+  </dict>
+</config>

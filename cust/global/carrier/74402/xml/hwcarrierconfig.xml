@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="53bbace6b6053929eea0aac1479b2964">
+  <dict>
+    <!--2019-07-15 11:35:14.000-->
+    <string key="carrier_vowifi_hd_icon_flag">00000000</string>
+    <!--2019-03-15 16:53:18.000-->
+    <string key="is_show_vowifi_tile_flag">true</string>
+  </dict>
+</config>

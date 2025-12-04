@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="43e8c9966b4da0a3a646136e1d5d9b7b">
+  <dict>
+    <!--2019-03-15 16:02:36.000-->
+    <string key="SMSCAddress">+447785016005</string>
+    <!--2019-03-15 16:02:36.000-->
+    <int key="allow_mms_property_int">4</int>
+    <!--2019-03-15 16:02:36.000-->
+    <bool key="carrier_xcap_data_roaming_switch">true</bool>
+    <!--2019-03-15 16:02:36.000-->
+    <bool key="compatible_apn_switch">true</bool>
+    <!--2019-03-15 16:02:36.000-->
+    <int key="max_message_size">307200</int>
+    <!--2019-03-15 16:02:36.000-->
+    <int key="num_match">10</int>
+    <!--2019-03-15 16:02:36.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2019-03-15 16:02:36.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2019-03-15 16:02:36.000-->
+    <bool key="pre_apn_unable">true</bool>
+    <!--2019-12-20 18:15:25.000-->
+    <bool key="show_vowifi_menu_by_omacp">true</bool>
+    <!--2019-03-15 16:02:36.000-->
+    <int key="sms_to_mms_textthreshold">11</int>
+    <!--2019-03-15 16:02:36.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2019-03-15 16:02:36.000-->
+    <string key="ussd_regex">(^#153#1234|#132#(\d+)\*|#45#(\d+)\*$)</string>
+    <!--2019-03-15 16:02:36.000-->
+    <string key="virtual_ecclist_withcard">+911,+112,+999</string>
+    <!--2019-03-15 16:02:36.000-->
+    <string key="virtualnet_operatorname">TalkTalk</string>
+    <!--2019-03-15 16:02:36.000-->
+    <string key="voicemail_carrier">TalkTalk</string>
+    <!--2019-03-15 16:02:36.000-->
+    <string key="voicemail_number">121</string>
+    <!--2019-03-15 16:02:36.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

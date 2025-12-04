@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="1ed85dd846198a187e20cc320f870488">
+  <dict>
+    <!--2019-03-15 16:41:31.000-->
+    <bool key="groupChatDefaultsToMMS">false</bool>
+    <!--2020-02-25 11:04:28.000-->
+    <bool key="hide_nr_tile_flag">true</bool>
+    <!--2019-03-15 16:41:31.000-->
+    <string key="hide_violence_number_from_mcc">34-016</string>
+    <!--2019-03-15 16:41:31.000-->
+    <string key="mvnoTypeIndex">1</string>
+    <!--2019-03-15 16:41:31.000-->
+    <array key="read_only_apn_types_string_array">
+      <string></string>
+    </array>
+    <!--2019-03-15 16:41:31.000-->
+    <bool key="smsUsesSimpleCharactersOnly">true</bool>
+  </dict>
+</config>

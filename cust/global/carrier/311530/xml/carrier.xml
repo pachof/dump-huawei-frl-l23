@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="9606992b8156cb09f7918c61514e54ba">
+  <dict>
+    <!--2019-03-15 16:51:13.000-->
+    <int key="num_match">10</int>
+    <!--2019-03-15 16:51:13.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2019-03-15 16:51:13.000-->
+    <string key="virtualnet_operatorname">Duet</string>
+  </dict>
+</config>

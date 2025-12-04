@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2019-03-15 16:24:35.000-->
+  <string hw_predefined_eap_sim="Vodafone NL Wifi:EAP_AKA"/>
+  <!--2019-03-15 16:24:35.000-->
+  <integer hwdefault_CheckIntervalt="15"/>
+  <!--2019-03-15 16:24:35.000-->
+  <string nl_cmas_alert="true"/>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="be22c4ab5f72375d39b398c45632e2cd">
+  <dict>
+    <!--2019-03-15 16:44:45.000-->
+    <int key="num_match">9</int>
+    <!--2019-03-15 16:44:45.000-->
+    <string key="voicemail_carrier">Maroc Telecom</string>
+    <!--2019-03-15 16:44:45.000-->
+    <string key="voicemail_number">333</string>
+    <!--2019-03-15 16:44:45.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

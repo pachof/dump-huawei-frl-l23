@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="eff3c846a3f7efc36456f73757f5751d">
+  <dict>
+    <!--2019-03-15 15:49:53.000-->
+    <int key="max_message_size">307200</int>
+    <!--2019-03-15 15:49:53.000-->
+    <int key="num_match">8</int>
+    <!--2019-03-15 15:49:53.000-->
+    <int key="sms_to_mms_textthreshold">11</int>
+    <!--2019-03-15 15:49:53.000-->
+    <string key="voicemail_carrier">BeeLine / ArmenTel</string>
+    <!--2019-03-15 15:49:53.000-->
+    <string key="voicemail_number">0600</string>
+    <!--2019-03-15 15:49:53.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

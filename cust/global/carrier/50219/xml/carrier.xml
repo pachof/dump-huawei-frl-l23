@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="852ccd23f165e15022a42207a8a3e413">
+  <dict>
+    <!--2019-03-15 16:19:44.000-->
+    <int key="num_match">10</int>
+    <!--2019-07-30 10:48:10.000-->
+    <bool key="pre_apn_NotDel">false</bool>
+    <!--2019-07-30 10:48:10.000-->
+    <bool key="pre_apn_unable">false</bool>
+  </dict>
+</config>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="066d814dc240dee87ba2c8685c1965b8">
+  <dict>
+    <!--2020-07-07 10:59:54.000-->
+    <int key="default_always_allow_mms_by_mccmnc">0</int>
+  </dict>
+</config>

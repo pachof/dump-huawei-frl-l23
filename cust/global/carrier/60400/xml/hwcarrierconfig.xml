@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="d170dce685dfaee7c81df5347e665788">
+  <dict>
+    <!--2020-04-08 19:58:00.000-->
+    <bool key="CFNRcChangeWithCFNL">false</bool>
+    <!--2020-04-08 17:53:39.000-->
+    <string key="EspAuthAlg">RCT_ALG_AES_XCBC,RCT_ALG_HMAC_SHA1,RCT_ALG_HMAC_MD5,RCT_ALG_HMAC_SHA2_256,RCT_ALG_HMAC_SHA2_384,RCT_ALG_HMAC_SHA2_512</string>
+    <!--2020-04-08 17:53:39.000-->
+    <string key="EspEncAlg">RCT_ALG_AES128_CBC,RCT_ALG_AES192_CBC,RCT_ALG_AES256_CBC</string>
+    <!--2020-04-08 17:53:39.000-->
+    <string key="Ikev2DhGroup">RCT_ALG_MODP2048,RCT_ALG_MODP1536,RCT_ALG_MODP1024</string>
+    <!--2020-04-08 17:53:39.000-->
+    <string key="Ikev2EncAlg">RCT_ALG_AES128_CBC,RCT_ALG_AES192_CBC,RCT_ALG_AES256_CBC</string>
+    <!--2020-04-08 17:53:39.000-->
+    <string key="Ikev2HashAlg">RCT_ALG_AES_XCBC,RCT_ALG_HMAC_SHA1,RCT_ALG_HMAC_MD5,RCT_ALG_HMAC_SHA2_256,RCT_ALG_HMAC_SHA2_384,RCT_ALG_HMAC_SHA2_512</string>
+    <!--2020-04-08 17:53:39.000-->
+    <string key="Ikev2PrfAlg">RCT_ALG_AES_XCBC,RCT_ALG_HMAC_MD5,RCT_ALG_HMAC_SHA1,RCT_ALG_HMAC_SHA2_256,RCT_ALG_HMAC_SHA2_384,RCT_ALG_HMAC_SHA2_512</string>
+    <!--2020-04-08 19:58:00.000-->
+    <int key="callWaitingMode">11</int>
+    <!--2020-04-08 19:58:00.000-->
+    <bool key="carrier_default_volte_switch_on_bool">false</bool>
+    <!--2020-04-08 17:53:39.000-->
+    <bool key="carrier_default_wfc_ims_enabled_bool">false</bool>
+    <!--2020-03-18 14:18:44.000-->
+    <string key="carrier_volte_hd_icon_flag">00101010</string>
+    <!--2020-03-18 15:41:09.000-->
+    <string key="carrier_vowifi_hd_icon_flag">10101010</string>
+    <!--2020-04-11 11:02:45.000-->
+    <bool key="hw_hide_pop_for_mcc">true</bool>
+    <!--2020-04-08 19:58:00.000-->
+    <bool key="preferToUseUT">true</bool>
+    <!--2020-04-08 19:58:00.000-->
+    <int key="setDefaultNoReplyTimer">0</int>
+    <!--2020-04-08 19:58:00.000-->
+    <bool key="utForbiddenWhenVolteSwitchOff">false</bool>
+    <!--2020-04-08 19:58:00.000-->
+    <int key="utOIRSourceMode">1</int>
+    <!--2020-04-08 19:58:00.000-->
+    <int key="utUseApn">1</int>
+    <!--2020-04-08 17:53:39.000-->
+    <string key="vowifiHplmnListItem">60400, epdg.epc.mnc000.mcc604.pub.3gppnetwork.org</string>
+    <!--2020-04-08 17:53:39.000-->
+    <int key="vowifiRoamingConfig">0</int>
+    <!--2020-04-08 17:53:39.000-->
+    <bool key="vowifiStaticRoaming">true</bool>
+    <!--2020-04-08 17:53:39.000-->
+    <bool key="vowifiStaticUnroaming">true</bool>
+    <!--2020-04-08 17:53:39.000-->
+    <string key="vowifi_UT_APN">hos</string>
+    <!--2020-04-08 17:53:39.000-->
+    <bool key="vowifi_ut_switch">true</bool>
+  </dict>
+</config>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2019-03-15 16:00:02.000-->
+  <string hw_predefined_eap_sim="VodafoneWiFi"/>
+  <!--2019-03-15 16:00:02.000-->
+  <integer hwdefault_CheckIntervalt="-1"/>
+</resources>

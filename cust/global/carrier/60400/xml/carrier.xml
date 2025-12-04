@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="edd5a723b44b0bb4a93e87ce2dbb4aab">
+  <dict>
+    <!--2019-03-15 16:02:41.000-->
+    <int key="num_match">9</int>
+    <!--2020-04-08 17:53:39.000-->
+    <bool key="pre_plmn_reg_vowifi">true</bool>
+    <!--2019-03-15 16:02:41.000-->
+    <string key="voicemail_carrier">Meditel</string>
+    <!--2019-03-15 16:02:41.000-->
+    <string key="voicemail_number">123</string>
+    <!--2019-03-15 16:02:41.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

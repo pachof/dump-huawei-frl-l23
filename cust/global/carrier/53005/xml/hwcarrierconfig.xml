@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="316654fe5c3f487b6155d8d1cf8dc2b6">
+  <dict>
+    <!--2019-03-15 15:51:55.000-->
+    <int key="callWaitingMode">11</int>
+    <!--2019-05-21 10:32:21.000-->
+    <bool key="carrier_default_volte_switch_on_bool">true</bool>
+    <!--2020-01-19 14:23:55.000-->
+    <string key="carrier_volte_hd_icon_flag">10001010</string>
+    <!--2019-03-15 15:51:55.000-->
+    <bool key="groupChatDefaultsToMMS">false</bool>
+    <!--2020-04-23 11:37:41.000-->
+    <bool key="hide_nr_tile_flag">true</bool>
+    <!--2019-03-15 15:51:55.000-->
+    <int key="maxMessageSize">614400</int>
+    <!--2020-04-16 09:44:35.000-->
+    <bool key="preferToUseUT">false</bool>
+    <!--2019-05-21 10:32:21.000-->
+    <string key="ssTypeUseCsOnly">1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,22,23</string>
+    <!--2019-03-15 15:51:55.000-->
+    <int key="utBsfPort">443</int>
+    <!--2019-03-15 15:51:55.000-->
+    <string key="utBsfSrvAddr">bsf.ims.mnc005.mcc530.pub.3gppnetwork.org</string>
+    <!--2019-03-15 15:51:55.000-->
+    <int key="utNafPort">443</int>
+    <!--2019-03-15 15:51:55.000-->
+    <string key="utNafSrvAddr">xcap.ims.mnc005.mcc530.3gppnetwork.org</string>
+    <!--2019-03-15 15:51:55.000-->
+    <int key="utUseApn">1</int>
+  </dict>
+</config>

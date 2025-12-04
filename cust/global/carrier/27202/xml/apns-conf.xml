@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apns version="8">
+  <apn carrier="Three Internet" mcc="272" mnc="02" apn="Internet" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="default,supl" authtype="0"/>
+  <apn carrier="Three MMS" mcc="272" mnc="02" apn="Internet" user="" server="" password="" proxy="62.40.32.40" port="8080" mmsproxy="62.40.32.40" mmsport="8080" mmsc="http://mms.three.ie" type="mms" authtype="0"/>
+</apns>

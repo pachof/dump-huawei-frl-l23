@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config hashvalue="ac078e588890f4594baf95c5c3f47bda">
+  <dict>
+    <array key="plmn_spn">
+      <dict>
+        <string key="network_mccmnc">334030</string>
+        <string key="sim_mccmnc">334050</string>
+        <string key="network_type"></string>
+        <int key="rule">1</int>
+        <string key="spn">AT&amp;T</string>
+        <string key="plmn">Movistar</string>
+      </dict>
+      <dict>
+        <string key="network_mccmnc">334050</string>
+        <string key="sim_mccmnc">334050</string>
+        <string key="network_type"></string>
+        <int key="rule">4</int>
+        <string key="spn">####</string>
+        <string key="plmn">####</string>
+      </dict>
+      <dict>
+        <string key="network_mccmnc">33405</string>
+        <string key="sim_mccmnc">334050</string>
+        <string key="network_type"></string>
+        <int key="rule">4</int>
+        <string key="spn">####</string>
+        <string key="plmn">####</string>
+      </dict>
+      <dict>
+        <string key="network_mccmnc">334090</string>
+        <string key="sim_mccmnc">334050</string>
+        <string key="network_type"></string>
+        <int key="rule">4</int>
+        <string key="spn">####</string>
+        <string key="plmn">####</string>
+      </dict>
+      <dict>
+        <string key="network_mccmnc">334050</string>
+        <string key="sim_mccmnc">22201</string>
+        <string key="network_type"></string>
+        <int key="rule">1</int>
+        <string key="spn">####</string>
+        <string key="plmn">####</string>
+      </dict>
+      <dict>
+        <string key="network_mccmnc">334090</string>
+        <string key="sim_mccmnc">22201</string>
+        <string key="network_type"></string>
+        <int key="rule">1</int>
+        <string key="spn">####</string>
+        <string key="plmn">####</string>
+      </dict>
+      <dict>
+        <string key="network_mccmnc">222010</string>
+        <string key="sim_mccmnc">222010</string>
+        <string key="network_type"></string>
+        <int key="rule">1</int>
+        <string key="spn">Iusacell</string>
+        <string key="plmn">Iusacell</string>
+      </dict>
+      <dict>
+        <string key="network_mccmnc">33405</string>
+        <string key="sim_mccmnc">33405</string>
+        <string key="network_type"></string>
+        <int key="rule">4</int>
+        <string key="spn">####</string>
+        <string key="plmn">####</string>
+      </dict>
+      <dict>
+        <string key="network_mccmnc">334050</string>
+        <string key="sim_mccmnc">33405</string>
+        <string key="network_type"></string>
+        <int key="rule">4</int>
+        <string key="spn">####</string>
+        <string key="plmn">####</string>
+      </dict>
+      <dict>
+        <string key="network_mccmnc">334090</string>
+        <string key="sim_mccmnc">33405</string>
+        <string key="network_type"></string>
+        <int key="rule">4</int>
+        <string key="spn">####</string>
+        <string key="plmn">####</string>
+      </dict>
+      <dict>
+        <string key="network_mccmnc">310410</string>
+        <string key="sim_mccmnc">334050</string>
+        <string key="network_type"></string>
+        <int key="rule">1</int>
+        <string key="spn">AT&amp;T</string>
+        <string key="plmn">AT&amp;T</string>
+      </dict>
+      <dict>
+        <string key="network_mccmnc">334020</string>
+        <string key="sim_mccmnc">334050</string>
+        <string key="network_type"></string>
+        <int key="rule">1</int>
+        <string key="spn">AT&amp;T XT</string>
+        <string key="plmn">AT&amp;T XT</string>
+      </dict>
+      <dict>
+        <string key="network_mccmnc">33403</string>
+        <string key="sim_mccmnc">334050</string>
+        <string key="network_type"></string>
+        <int key="rule">1</int>
+        <string key="spn">AT&amp;T EX</string>
+        <string key="plmn">AT&amp;T EX</string>
+      </dict>
+      <dict>
+        <string key="network_mccmnc">302720</string>
+        <string key="sim_mccmnc">334050</string>
+        <string key="network_type"></string>
+        <int key="rule">1</int>
+        <string key="spn">ROGERS</string>
+        <string key="plmn">ROGERS</string>
+      </dict>
+    </array>
+    <array key="set_mtu"/>
+    <array key="plmn_abbrev"/>
+    <array key="net_sim_ue_pri"/>
+  </dict>
+</config>

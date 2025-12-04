@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2019-04-25 14:35:45.000-->
+  <string display_channel_default_off="919,920"/>
+  <!--2019-03-15 16:51:57.000-->
+  <integer hwdefault_CheckIntervalt="15"/>
+  <!--2019-04-25 14:35:45.000-->
+  <string show_channel_settings="true"/>
+</resources>

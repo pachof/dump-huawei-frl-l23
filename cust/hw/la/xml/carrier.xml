@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="310e74f03c111ef45ee13404113d7149">
+  <dict>
+    <!--2019-03-15 16:03:35.000-->
+    <bool key="hw_confirm_waiting">true</bool>
+    <!--2019-03-15 16:03:35.000-->
+    <bool key="hw_hide_lte">false</bool>
+    <!--2019-11-05 21:00:49.000-->
+    <bool key="hw_ussd_message_sound">true</bool>
+    <!--2019-11-05 21:00:49.000-->
+    <bool key="hw_ussd_message_vibrator">true</bool>
+    <!--2019-11-05 21:00:49.000-->
+    <bool key="hw_ussd_message_wakescreen">true</bool>
+    <!--2019-03-15 16:03:35.000-->
+    <bool key="stk_use_lasttitle">true</bool>
+  </dict>
+</config>

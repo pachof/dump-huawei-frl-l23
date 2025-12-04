@@ -1,0 +1,60 @@
+# 2019-12-24 11:18:45.000
+hw_mc.power_manage.active_sos_times=3
+# 2019-03-15 16:08:43.000
+ro.camera.cos_ttpic_supported=false
+# 2019-03-15 16:08:43.000
+ro.config.attach_apn_enabled=true
+# 2019-07-16 11:51:03.000
+ro.config.bundle_opta_mnc=200
+# 2019-07-16 11:51:26.000
+ro.config.bundle_optb_mnc=365
+# 2019-07-16 11:51:26.000
+ro.config.bundle_optx_mnc=128
+# 2019-03-15 16:08:43.000
+ro.config.cbs_del_2B=true
+# 2019-03-15 16:08:43.000
+ro.config.delay_updatename=true
+# 2019-05-10 11:32:44.000
+ro.config.hw.region=meafnaf
+# 2019-03-15 16:08:43.000
+ro.config.hw_always_allow_mms=0
+# 2020-02-11 20:32:15.000
+ro.config.hw_cbs_mcc=424;001
+# 2019-03-15 16:08:43.000
+ro.config.hw_delay_detach_time=2
+# 2019-03-15 16:08:43.000
+ro.config.hw_ecc_with_sim_card=true
+# 2019-03-15 16:08:43.000
+ro.config.hw_media_assistant=false
+# 2019-03-15 16:08:43.000
+ro.config.hw_omacp=1
+# 2019-03-15 16:08:43.000
+ro.config.hw_opta=185
+# 2019-03-15 16:08:43.000
+ro.config.hw_optb=999
+# 2020-06-01 15:54:52.000
+ro.config.hw_rcs_vendor=true
+# 2019-03-15 16:08:43.000
+ro.config.hw_support_vm_ecc=true
+# 2019-03-15 16:08:43.000
+ro.config.hw_volte_icon_rule=2
+# 2019-03-15 16:08:43.000
+ro.config.keyguard_unusedata=false
+# 2019-03-15 16:08:43.000
+ro.config.music_region=normal
+# 2019-12-17 11:19:21.000
+ro.config.ussd_linkify=true
+# 2019-03-15 16:08:43.000
+ro.config.vm_prioritymode=2
+# 2019-12-13 14:31:09.000
+ro.odm.gsm.fastdormancy.mode=1
+# 2019-12-13 14:31:09.000
+ro.odm.gsm.fd.screen=3
+# 2019-12-13 14:31:09.000
+ro.odm.gsm.fd.time_scroff=4000
+# 2019-03-15 16:08:43.000
+ro.product.CustCVersion=C185
+# 2019-03-15 16:08:43.000
+ro.product.locale=en-US
+# 2019-03-15 16:08:43.000
+ro.vendor.config.camera.region=zdfz

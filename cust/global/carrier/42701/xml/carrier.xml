@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="8d94e2564ac98fe2d0e1ecc63184d653">
+  <dict>
+    <!--2019-03-15 16:18:11.000-->
+    <int key="num_match">7</int>
+    <!--2020-04-28 18:21:56.000-->
+    <bool key="show_volte_switch_in_nsa">true</bool>
+  </dict>
+</config>

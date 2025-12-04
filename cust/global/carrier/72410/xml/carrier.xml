@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="d3c384cc5f8312c262ceceab220a3192">
+  <dict>
+    <!--2019-03-15 16:01:06.000-->
+    <bool key="cbs_del_2b_switch">true</bool>
+    <!--2019-03-15 16:01:06.000-->
+    <string key="default_protocol">IPV4V6</string>
+    <!--2019-03-15 16:01:06.000-->
+    <string key="hw_networkname_normal">all,LTE:4G;CA:4.5G;MiMo:4.5G;CAMiMo:4.5G</string>
+    <!--2019-09-05 14:38:21.000-->
+    <bool key="mo_num_update">true</bool>
+    <!--2019-03-15 16:01:06.000-->
+    <int key="num_match">8</int>
+    <!--2019-03-15 16:01:06.000-->
+    <string key="roaming_protocol">IPV4V6</string>
+    <!--2019-03-15 16:01:06.000-->
+    <int key="sms_7bit_enabled">1</int>
+    <!--2019-03-15 16:01:06.000-->
+    <string key="voicemail_carrier">VIVO</string>
+    <!--2019-03-15 16:01:06.000-->
+    <string key="voicemail_number">*555</string>
+    <!--2019-03-15 16:01:06.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="80dee364ee4ba190f8328524b44f26e7">
+  <dict>
+    <!--2019-03-15 16:48:51.000-->
+    <int key="callWaitingMode">11</int>
+    <!--2019-03-15 16:48:51.000-->
+    <bool key="preferToUseUT">true</bool>
+    <!--2019-03-15 16:48:51.000-->
+    <int key="setDefaultNoReplyTimer">30</int>
+    <!--2019-03-15 16:48:51.000-->
+    <bool key="utForbiddenWhenVolteSwitchOff">false</bool>
+  </dict>
+</config>

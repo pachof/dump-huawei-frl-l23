@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="6c63571a39ed425692e3247f6ac9bd30">
+  <dict>
+    <!--2019-03-15 16:53:58.000-->
+    <int key="allow_mms_property_int">6</int>
+    <!--2019-09-19 19:55:40.000-->
+    <bool key="hw_data_roam_option">false</bool>
+    <!--2019-03-15 16:53:58.000-->
+    <int key="max_message_size">307200</int>
+    <!--2019-03-15 16:53:58.000-->
+    <int key="num_match">7</int>
+    <!--2019-03-15 16:53:58.000-->
+    <int key="sms_to_mms_textthreshold">-1</int>
+    <!--2019-03-15 16:53:58.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2020-06-04 12:07:23.000-->
+    <string key="virtualnet_operatorname">WINDTRE</string>
+    <!--2019-03-15 16:53:58.000-->
+    <string key="voicemail_carrier">3</string>
+    <!--2019-03-15 16:53:58.000-->
+    <string key="voicemail_number">4133</string>
+    <!--2019-03-15 16:53:58.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="9bfe2d8b07a0cebacc2e96da86536866">
+  <dict>
+    <!--2019-03-15 15:49:04.000-->
+    <string key="hw_4g_custom_display_for_networklist">4G:4.5G</string>
+    <!--2019-03-15 15:49:04.000-->
+    <string key="hw_4g_custom_display_for_networkmode">4G:4.5G</string>
+    <!--2019-03-15 15:49:04.000-->
+    <string key="hw_4g_custom_display_for_switch">4G:4.5G</string>
+    <!--2019-03-15 15:49:04.000-->
+    <string key="hw_networkname_normal">all,LTE:4.5G;CA:4.5G</string>
+    <!--2019-03-15 15:49:04.000-->
+    <bool key="hw_show_4_5G_for_mcc">true</bool>
+    <!--2019-03-15 15:49:04.000-->
+    <int key="num_match">10</int>
+    <!--2019-03-15 15:49:04.000-->
+    <int key="sms_coding_national">1</int>
+    <!--2019-03-15 15:49:04.000-->
+    <string key="voicemail_carrier">Avea</string>
+    <!--2019-03-15 15:49:04.000-->
+    <string key="voicemail_number">999</string>
+    <!--2019-03-15 15:49:04.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

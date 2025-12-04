@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tag>
+  <restoreapk>/system/priv-app/HwIntelligent.apk;/hw_product/region_comm/oversea/app/HwIntelligent.apk;/system/app/HMS.apk;/system/priv-app/HMS.apk;/system/app/HwCloudDrive.apk;/system/app/HwCloud.apk;/system/delapp/HiAppOOBE.apk;/system/app/HiFolder.apk;/system/app/HwDetectRepair.apk;/system/app/HwIms.apk;/system/priv-app/HwPhoneService.apk;/system/priv-app/HiSpace.apk;</restoreapk>
+  <apk>/hw_product/region_comm/oversea/app/HwVoipService.apk;/hw_product/app/HwVoipService.apk;/system/priv-app/CellBroadcastReceiver.apk;</apk>
+</tag>

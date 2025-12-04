@@ -1,0 +1,3 @@
+version=10.1.1.1
+type=CARRIER_43801
+subtype=LITE

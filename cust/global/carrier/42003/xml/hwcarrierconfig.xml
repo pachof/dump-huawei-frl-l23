@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="bf75e37aeb187155db590e3ad0f0b1b0">
+  <dict>
+    <!--2020-01-10 16:02:15.000-->
+    <string key="EspAuthAlg">RCT_ALG_HMAC_SHA1</string>
+    <!--2020-01-10 16:02:15.000-->
+    <string key="EspEncAlg">RCT_ALG_AES128_CBC</string>
+    <!--2020-01-10 16:02:15.000-->
+    <string key="Ikev2DhGroup">RCT_ALG_MODP1024</string>
+    <!--2020-01-10 16:02:15.000-->
+    <string key="Ikev2EncAlg">RCT_ALG_AES128_CBC</string>
+    <!--2020-01-10 16:02:15.000-->
+    <string key="Ikev2HashAlg">RCT_ALG_HMAC_SHA1</string>
+    <!--2020-01-10 16:02:15.000-->
+    <string key="Ikev2PrfAlg">RCT_ALG_HMAC_SHA2_256</string>
+    <!--2019-03-15 16:00:13.000-->
+    <int key="callWaitingMode">11</int>
+    <!--2020-01-13 10:43:05.000-->
+    <bool key="carrier_close_vowifi_airplane_bool">true</bool>
+    <!--2020-02-21 16:21:28.000-->
+    <string key="carrier_volte_hd_icon_flag">10101010</string>
+    <!--2020-01-13 10:43:05.000-->
+    <string key="carrier_vowifi_hd_icon_flag">10101010</string>
+    <!--2019-03-15 16:00:13.000-->
+    <bool key="preferToUseUT">true</bool>
+    <!--2019-03-15 16:00:13.000-->
+    <int key="setDefaultNoReplyTimer">0</int>
+    <!--2019-03-15 16:00:13.000-->
+    <int key="utBsfPort">443</int>
+    <!--2019-03-15 16:00:13.000-->
+    <bool key="utForbiddenWhenVolteSwitchOff">false</bool>
+    <!--2019-03-15 16:00:13.000-->
+    <int key="utOIRSourceMode">1</int>
+    <!--2019-03-15 16:00:13.000-->
+    <int key="utUseApn">1</int>
+    <!--2020-04-03 15:29:55.000-->
+    <string key="vowifiHplmnListItem">42003,epdg.mobily.com.sa</string>
+    <!--2020-01-10 16:02:15.000-->
+    <int key="vowifiRoamingConfig">0</int>
+    <!--2020-01-10 16:02:15.000-->
+    <bool key="vowifiStaticRoaming">true</bool>
+    <!--2020-01-10 16:02:15.000-->
+    <bool key="vowifiStaticUnroaming">true</bool>
+    <!--2020-01-10 16:02:15.000-->
+    <string key="vowifi_UT_APN">Ut APN</string>
+  </dict>
+</config>

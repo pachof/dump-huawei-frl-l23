@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="d7190b169f3ab698315801e732ddc230">
+  <dict>
+    <!--2019-03-15 16:22:01.000-->
+    <bool key="carrier_xcap_data_roaming_switch">true</bool>
+    <!--2019-03-15 16:22:01.000-->
+    <int key="max_message_size">307200</int>
+    <!--2019-03-15 16:22:01.000-->
+    <int key="sms_to_mms_textthreshold">5</int>
+    <!--2019-03-15 16:22:01.000-->
+    <bool key="vm_edit_not_to_sim_bool">true</bool>
+  </dict>
+</config>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="b7913fcbee627c4d37db2a4648e786f8">
+  <dict>
+    <!--2019-03-15 16:08:11.000-->
+    <int key="num_match">7</int>
+    <!--2019-03-28 16:56:02.000-->
+    <bool key="single_pdp_enabled">true</bool>
+  </dict>
+</config>

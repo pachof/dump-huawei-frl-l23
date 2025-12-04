@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="6df5c92dea356751aa88e3b67c6ae3e1">
+  <dict>
+    <!--2019-03-15 16:57:32.000-->
+    <bool key="cbs_del_2b_switch">true</bool>
+    <!--2019-03-15 16:57:32.000-->
+    <bool key="delay_detach_switch">true</bool>
+    <!--2019-03-15 16:57:32.000-->
+    <int key="num_match">9</int>
+    <!--2020-04-09 18:16:35.000-->
+    <bool key="pre_plmn_reg_vowifi">true</bool>
+    <!--2019-03-15 16:57:32.000-->
+    <string key="voicemail_carrier">MTN</string>
+    <!--2019-03-15 16:57:32.000-->
+    <string key="voicemail_number">132</string>
+    <!--2019-03-15 16:57:32.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

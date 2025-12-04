@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2019-03-15 15:57:22.000-->
+  <string hw_predefined_eap_sim="WIFI ETB:EAP_AKA;WIFI ETB2"/>
+  <!--2019-03-15 15:57:22.000-->
+  <string hw_weatherclock_myloc_show_first="false"/>
+  <!--2019-03-15 15:57:22.000-->
+  <string settings.global.speeddial_predefined_numbers="2,*700;"/>
+</resources>

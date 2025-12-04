@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tag>
+  <restoreapk>/system/priv-app/HiSpace.apk;/system/app/HMS.apk;/system/priv-app/HMS.apk;/system/app/HwCloudDrive.apk;/system/app/HwCloud.apk;/system/app/HiFolder.apk;/system/app/HwTrustCircle.apk;/system/priv-app/HwControlCenter.apk;/hw_product/region_comm/oversea/app/HwControlCenter.apk;/system/priv-app/HwPhoneService.apk;/system/app/HwDetectRepair.apk;/hw_product/region_comm/oversea/app/HwBrowser.apk;/system/priv-app/HwIntelligent.apk;/hw_product/region_comm/oversea/app/HwIntelligent.apk;</restoreapk>
+</tag>

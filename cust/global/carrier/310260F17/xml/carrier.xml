@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="2c116c8cabdba185b7c0766c0a41c0cf">
+  <dict>
+    <!--2019-03-15 16:25:28.000-->
+    <string key="hw_networkname_normal">all,GPRS:G;EDGE:E;UMTS:4G;HSDPA:4G;HSUPA:4G;HSPA:4G;HSPA+:4G;LTE:4G LTE;CA:4G LTE</string>
+    <!--2019-03-15 16:25:28.000-->
+    <int key="num_match">10</int>
+    <!--2019-11-05 15:06:44.000-->
+    <int key="plmn_esm_flag">0</int>
+    <!--2019-03-15 16:25:28.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2019-03-15 16:25:28.000-->
+    <string key="virtual_ecclist_withcard">+911,+112</string>
+    <!--2019-03-15 16:25:28.000-->
+    <string key="voicemail_carrier">Vodafone</string>
+    <!--2019-03-15 16:25:28.000-->
+    <string key="voicemail_number">+18056377243</string>
+    <!--2019-03-15 16:25:28.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

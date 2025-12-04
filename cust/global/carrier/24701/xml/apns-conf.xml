@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apns version="8">
+  <apn carrier="LMT" mcc="247" mnc="01" apn="internet.lmt.lv" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="default,supl" authtype="0"/>
+  <apn carrier="LMT" mcc="247" mnc="01" apn="internet.lmt.lv" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="default,supl"/>
+  <apn carrier="LMT MMS" mcc="247" mnc="01" apn="internet.lmt.lv" user="" server="" password="" proxy="" port="" mmsproxy="212.93.97.201" mmsport="80" mmsc="http://mmsc.lmt.lv/mmsc" type="mms"/>
+  <apn carrier="LMT XCAP APN" mcc="247" mnc="01" apn="hos" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="xcap" protocol="IPV4V6"/>
+</apns>

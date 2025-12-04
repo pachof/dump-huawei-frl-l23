@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="a40ce7957a4b89d4e60b1c8596b42769">
+  <dict>
+    <!--2019-03-15 16:39:05.000-->
+    <int key="num_match">8</int>
+    <!--2019-03-15 16:39:05.000-->
+    <string key="voicemail_carrier">Tigo</string>
+    <!--2019-03-15 16:39:05.000-->
+    <string key="voicemail_number">130</string>
+    <!--2019-03-15 16:39:05.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

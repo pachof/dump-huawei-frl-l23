@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="785c85cd3bf8cfa9eabf439b220e331d">
+  <dict>
+    <!--2020-02-25 11:20:56.000-->
+    <bool key="5G_network_mode_item_disable">true</bool>
+    <!--2019-03-15 16:13:14.000-->
+    <bool key="hw_stk_calling_show_text">true</bool>
+    <!--2019-03-15 16:13:14.000-->
+    <bool key="hw_stk_home_back">true</bool>
+    <!--2019-03-15 16:13:14.000-->
+    <bool key="hw_stk_screen_on_unlock">true</bool>
+    <!--2019-03-15 16:13:14.000-->
+    <bool key="hw_stk_show_cancel_button">true</bool>
+    <!--2020-04-22 21:56:43.000-->
+    <int key="key_signal_strength_level_rule">1</int>
+    <!--2019-03-15 16:13:14.000-->
+    <int key="max_message_size">307200</int>
+    <!--2019-03-15 16:13:14.000-->
+    <int key="num_match">9</int>
+    <!--2019-11-05 15:06:39.000-->
+    <int key="plmn_esm_flag">0</int>
+    <!--2019-06-27 19:53:53.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2019-06-27 19:53:53.000-->
+    <bool key="pre_apn_unable">true</bool>
+    <!--2019-03-15 16:13:14.000-->
+    <int key="sms_7bit_enabled">1</int>
+    <!--2019-03-15 16:13:14.000-->
+    <int key="sms_to_mms_textthreshold">5</int>
+    <!--2019-03-15 16:13:14.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2019-03-15 16:13:14.000-->
+    <string key="virtualnet_operatorname">Orange</string>
+    <!--2019-03-15 16:13:14.000-->
+    <string key="voicemail_carrier">Orange</string>
+    <!--2019-03-15 16:13:14.000-->
+    <string key="voicemail_number">242</string>
+    <!--2019-03-15 16:13:14.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2019-08-19 10:46:59.000-->
+  <string duplicate_compare_body="true"/>
+  <!--2019-08-23 10:43:42.000-->
+  <string hw_predefined_eap_sim="0000Rakuten:EAP_AKA"/>
+  <!--2020-04-08 10:59:30.000-->
+  <string settings.global.supl_es_pdn_switch="true"/>
+  <!--2019-07-03 15:21:02.000-->
+  <string use_full_volume="true"/>
+</resources>

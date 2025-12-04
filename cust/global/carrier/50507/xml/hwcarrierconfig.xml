@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="d7e87fbfd189c25a5ed201cff915526a">
+  <dict>
+    <!--2019-03-15 16:39:01.000-->
+    <bool key="carrier_hide_ca_bool">true</bool>
+    <!--2019-03-15 16:39:01.000-->
+    <bool key="groupChatDefaultsToMMS">false</bool>
+  </dict>
+</config>

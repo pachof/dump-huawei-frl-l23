@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="d8aca0947d4df22ecb6af30fdc56658d">
+  <dict>
+    <!--2019-03-15 15:51:55.000-->
+    <int key="max_message_size">614400</int>
+    <!--2019-03-15 15:51:55.000-->
+    <int key="num_match">10</int>
+    <!--2019-03-15 15:51:55.000-->
+    <int key="num_match_short">8</int>
+    <!--2019-03-15 15:51:55.000-->
+    <int key="sms_to_mms_textthreshold">-1</int>
+    <!--2019-03-15 15:51:55.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2019-03-15 15:51:55.000-->
+    <string key="virtualnet_operatorname">Spark NZ</string>
+    <!--2019-03-15 15:51:55.000-->
+    <string key="voicemail_carrier">Telecom</string>
+    <!--2019-03-15 15:51:55.000-->
+    <string key="voicemail_number">+6483083210</string>
+    <!--2019-03-15 15:51:55.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

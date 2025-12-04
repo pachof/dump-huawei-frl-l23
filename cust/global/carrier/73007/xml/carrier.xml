@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="432b4c66fdd61cc70d0a7f9f22f85a38">
+  <dict>
+    <!--2019-03-15 16:40:07.000-->
+    <string key="default_protocol">IPV4V6</string>
+    <!--2019-03-15 16:40:07.000-->
+    <int key="num_match">8</int>
+    <!--2019-03-15 16:40:07.000-->
+    <string key="roaming_protocol">IPV4V6</string>
+    <!--2019-03-15 16:40:07.000-->
+    <int key="sms_7bit_enabled">1</int>
+    <!--2019-03-15 16:40:07.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2019-03-15 16:40:07.000-->
+    <string key="virtualnet_operatorname">GTD Movil</string>
+    <!--2019-03-15 16:40:07.000-->
+    <string key="voicemail_carrier">GTD</string>
+    <!--2019-03-15 16:40:07.000-->
+    <string key="voicemail_number">100</string>
+    <!--2019-03-15 16:40:07.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

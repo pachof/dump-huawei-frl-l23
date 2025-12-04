@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="6737c6550da11f904b36284f2299daaa">
+  <dict>
+    <!--2019-12-13 15:30:07.000-->
+    <bool key="carrier_default_volte_switch_on_bool">true</bool>
+    <!--2019-07-19 11:20:57.000-->
+    <bool key="switch_nr_available_bool">true</bool>
+  </dict>
+</config>

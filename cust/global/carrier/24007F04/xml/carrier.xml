@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="870ee06f9f3156642bf8de0326efc187">
+  <dict>
+    <!--2019-04-26 10:56:28.000-->
+    <bool key="hw_add_4g_only">true</bool>
+    <!--2020-03-31 10:04:36.000-->
+    <string key="hw_nwmode_pref_bymccmnc_5G">65,11,9,3,2,1</string>
+    <!--2019-04-26 15:24:05.000-->
+    <int key="num_match">10</int>
+    <!--2019-04-26 15:24:05.000-->
+    <string key="virtualnet_operatorname">Sberbank</string>
+  </dict>
+</config>

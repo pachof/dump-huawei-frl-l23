@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="5ff5c3cff705dd2e9baa210df43d2003">
+  <dict>
+    <!--2019-03-15 16:54:42.000-->
+    <int key="allow_mms_property_int">4</int>
+    <!--2019-03-15 16:54:42.000-->
+    <string key="hw_networkname_normal">all,CA:4G</string>
+    <!--2019-03-15 16:54:42.000-->
+    <string key="hw_nwmode_pref_bymccmnc">9</string>
+    <!--2019-06-13 17:42:06.000-->
+    <string key="hw_nwmode_pref_bymccmnc_5G">65,9</string>
+    <!--2019-03-15 16:54:42.000-->
+    <bool key="hw_remove_2g_only">true</bool>
+    <!--2019-03-15 16:54:42.000-->
+    <int key="max_message_size">307200</int>
+    <!--2019-03-15 16:54:42.000-->
+    <int key="num_match">10</int>
+    <!--2019-03-15 16:54:42.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2019-03-15 16:54:42.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2019-03-15 16:54:42.000-->
+    <bool key="pre_apn_unable">true</bool>
+    <!--2019-03-15 16:54:42.000-->
+    <int key="sms_to_mms_textthreshold">11</int>
+    <!--2019-03-15 16:54:42.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2019-03-15 16:54:42.000-->
+    <string key="virtual_ecclist_withcard">+999,+112,+911</string>
+    <!--2019-03-15 16:54:42.000-->
+    <string key="virtualnet_operatorname">BT</string>
+    <!--2019-05-20 14:44:48.000-->
+    <string key="voicemail_carrier">BT Mobile</string>
+    <!--2019-03-15 16:54:42.000-->
+    <string key="voicemail_number">222</string>
+    <!--2019-03-15 16:54:42.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

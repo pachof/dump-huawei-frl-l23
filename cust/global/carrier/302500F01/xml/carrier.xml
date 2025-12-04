@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="4e774648612a13bfab3c487d96d782c8">
+  <dict>
+    <!--2019-03-15 16:05:56.000-->
+    <bool key="compatible_apn_switch">true</bool>
+    <!--2020-06-22 19:51:39.000-->
+    <string key="hw_4g_custom_display_for_networklist">4G:LTE</string>
+    <!--2019-05-09 11:02:11.000-->
+    <string key="hw_networkname_normal">all,EDGE:E;GSM:G;UMTS:3G;HSDPA:H;HSUPA:H;HSPA:H;HSPA+:4G;DC-HSPA+:4G;LTE:LTE;CA:LTE+</string>
+    <!--2019-03-15 16:05:56.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2019-03-15 16:05:56.000-->
+    <bool key="pre_apn_unable">true</bool>
+    <!--2020-07-09 19:40:05.000-->
+    <bool key="show_volte_switch_in_nsa">true</bool>
+    <!--2019-06-10 16:17:32.000-->
+    <string key="voicemail_carrier">FIZZ</string>
+    <!--2019-06-10 16:17:32.000-->
+    <string key="voicemail_number">15146470999</string>
+    <!--2019-06-10 16:17:32.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

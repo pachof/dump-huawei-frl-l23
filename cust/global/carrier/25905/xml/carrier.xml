@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="401fd2dcc4d12e2abea9cbe6be5afef1">
+  <dict>
+    <!--2019-03-15 16:52:16.000-->
+    <int key="max_message_size">307200</int>
+    <!--2019-03-15 16:52:16.000-->
+    <int key="num_match">8</int>
+    <!--2019-03-15 16:52:16.000-->
+    <int key="sms_to_mms_textthreshold">5</int>
+    <!--2019-03-15 16:52:16.000-->
+    <string key="voicemail_carrier">Moldtelecom</string>
+    <!--2019-03-15 16:52:16.000-->
+    <string key="voicemail_number">333</string>
+    <!--2019-03-15 16:52:16.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

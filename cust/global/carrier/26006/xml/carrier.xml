@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="c10735d3aa302bac0752d1afaef5d33e">
+  <dict>
+    <!--2019-03-15 16:22:34.000-->
+    <string key="SMSCAddress">+48790998250</string>
+    <!--2019-03-15 16:22:34.000-->
+    <int key="allow_mms_property_int">6</int>
+    <!--2019-05-21 09:09:36.000-->
+    <bool key="data_roaming_switch">true</bool>
+    <!--2019-03-15 16:22:34.000-->
+    <bool key="delay_detach_switch">true</bool>
+    <!--2019-03-15 16:22:34.000-->
+    <string key="hw_4g_custom_display_for_networklist">4G:LTE</string>
+    <!--2019-03-15 16:22:34.000-->
+    <string key="hw_4g_custom_display_for_networkmode">4G:LTE</string>
+    <!--2019-03-15 16:22:34.000-->
+    <string key="hw_4g_custom_display_for_switch">4G:LTE</string>
+    <!--2019-03-15 16:22:34.000-->
+    <bool key="hw_callforward_networkname">true</bool>
+    <!--2019-03-15 16:22:34.000-->
+    <bool key="hw_data_roam_option">true</bool>
+    <!--2019-03-15 16:22:34.000-->
+    <string key="hw_networkname_normal">all,LTE:LTE;CA:LTE+</string>
+    <!--2019-03-15 16:22:34.000-->
+    <int key="max_message_size">307200</int>
+    <!--2019-03-15 16:22:34.000-->
+    <int key="num_match">9</int>
+    <!--2019-03-15 16:22:34.000-->
+    <int key="sms_7bit_enabled">1</int>
+    <!--2019-03-15 16:22:34.000-->
+    <int key="sms_to_mms_textthreshold">7</int>
+    <!--2019-03-15 16:22:34.000-->
+    <string key="voicemail_carrier">P4</string>
+    <!--2019-03-15 16:22:34.000-->
+    <string key="voicemail_number">+48790200200</string>
+    <!--2019-03-15 16:22:34.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

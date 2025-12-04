@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config hashvalue="8308c7e53891819d883a0c79a76b1d52">
+  <dict>
+    <dict key="bookmarks_folders">
+      <array key="bookmarks_folders_language">
+        <dict>
+          <array key="bookmarks">
+            <dict>
+              <string key="title">Internet Móvil</string>
+              <string key="url">http://wap.entelpcs.cl</string>
+            </dict>
+            <dict>
+              <string key="title">Sucursal Virtual</string>
+              <string key="url">http://m.entelpcs.cl</string>
+            </dict>
+            <dict>
+              <string key="title">Música</string>
+              <string key="url">http://portalwap.vas.entelpcs.cl/portalwap/musica.htm</string>
+            </dict>
+            <dict>
+              <string key="title">Juegos</string>
+              <string key="url">http://portalwap.vas.entelpcs.cl/portalwap/juegos.htm</string>
+            </dict>
+            <dict>
+              <string key="title">banco BCI</string>
+              <string key="url">https://www.bci.cl/personas</string>
+            </dict>
+            <dict>
+              <string key="title">servipag</string>
+              <string key="url">https://ww3.servipag.com/pagoenlinea/wcm/connect/desktop/home</string>
+            </dict>
+            <dict>
+              <string key="title">sosafe</string>
+              <string key="url">https://www.sosafeapp.com/</string>
+            </dict>
+            <dict>
+              <string key="title">lipi gas</string>
+              <string key="url">https://www.lipigas.cl/</string>
+            </dict>
+          </array>
+        </dict>
+      </array>
+    </dict>
+  </dict>
+</config>

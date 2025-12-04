@@ -1,0 +1,4 @@
+version=1.44.19.134
+type=ThirdPartyAppProperty
+subtype=generic
+compatibleVersion=1

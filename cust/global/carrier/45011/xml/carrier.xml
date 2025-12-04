@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="2b5e923cf3edb24316d28466e0ad203d">
+  <dict>
+    <!--2019-11-05 15:06:47.000-->
+    <int key="plmn_esm_flag">0</int>
+    <!--2019-03-28 16:56:02.000-->
+    <bool key="single_pdp_enabled">true</bool>
+  </dict>
+</config>

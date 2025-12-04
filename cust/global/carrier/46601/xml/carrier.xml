@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="6045da4a5995da8d0907043ab950bc6e">
+  <dict>
+    <!--2019-03-15 16:00:59.000-->
+    <int key="num_match">8</int>
+    <!--2019-03-15 16:00:59.000-->
+    <string key="voicemail_carrier">遠傳電信</string>
+    <!--2019-03-15 16:00:59.000-->
+    <string key="voicemail_number">222</string>
+    <!--2019-03-15 16:00:59.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

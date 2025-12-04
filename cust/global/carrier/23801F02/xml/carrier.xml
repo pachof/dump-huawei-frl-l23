@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="5affea5f1d431907947fc207cfda3b6d">
+  <dict>
+    <!--2019-03-15 16:10:14.000-->
+    <int key="max_message_size">307200</int>
+    <!--2020-06-09 11:22:54.000-->
+    <int key="num_match">8</int>
+    <!--2019-03-15 16:10:14.000-->
+    <int key="sms_to_mms_textthreshold">5</int>
+    <!--2019-03-15 16:10:14.000-->
+    <string key="virtualnet_operatorname">Fullrate</string>
+  </dict>
+</config>

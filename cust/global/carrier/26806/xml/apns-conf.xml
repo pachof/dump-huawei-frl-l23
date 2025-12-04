@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apns version="8">
+  <apn carrier="internet" mcc="268" mnc="06" apn="internet" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="default,supl"/>
+  <apn carrier="mms" mcc="268" mnc="06" apn="mmsc.tmn.pt" user="" server="" password="" proxy="" port="" mmsproxy="10.111.002.016" mmsport="8080" mmsc="http://mmsc" type="mms"/>
+  <apn carrier="MEO XCAP APN" mcc="268" mnc="06" apn="hos" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="xcap" protocol="IPV4V6"/>
+</apns>

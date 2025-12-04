@@ -1,0 +1,1 @@
+Chipset-MT6768 10.1.1(Q.20081101.global_performance)

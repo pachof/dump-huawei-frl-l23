@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="ef6805aece033a660d2da8f38413ea74">
+  <dict>
+    <!--2019-12-30 17:00:04.000-->
+    <string key="carrier_networkmode_gstyle">true</string>
+    <!--2019-03-15 15:49:21.000-->
+    <string key="carrier_volte_hd_icon_flag">10101010</string>
+  </dict>
+</config>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<packages>
+<package name="com.huawei.autoinstallapkfrommcc" path="cust/app/AutoInStallAPKFromMcc" ss="2C4FDB5F942C28147856595697F82D42F965B08AB67002517551733929D2F6A8" version="101"/>
+<package name="com.huawei.firstbootinfo" path="cust/app/FirstBootGetCityInfo" ss="2C4FDB5F942C28147856595697F82D42F965B08AB67002517551733929D2F6A8" version="100100110"/>
+<package name="com.huawei.sarlevel" path="cust/app/HwSARLevel" ss="2C4FDB5F942C28147856595697F82D42F965B08AB67002517551733929D2F6A8" version="21"/>
+<package name="com.huawei.sos" path="cust/app/HwSos" ss="2C4FDB5F942C28147856595697F82D42F965B08AB67002517551733929D2F6A8" version="100004"/>
+<package name="com.LogiaGroup.LogiaDeck" path="cust/app/Ignite_Singtel" ss="24A7F145727698C7E95D54AA865D570B263113B4575888D0C9F6280B44F5FAC8" version="56041"/>
+<package name="com.huawei.indiacalendar" path="cust/app/IndiaCalendar" ss="2C4FDB5F942C28147856595697F82D42F965B08AB67002517551733929D2F6A8" version="1000002"/>
+<package name="jp.co.omronsoft.iwnnime.ml" path="cust/app/iWnnIME_HMS" ss="FF7A4A18B2AF7F498B54AC7B68ED6A38130F0F01BFA07548DDD6B0A9066D4A2B" version="216000"/>
+<package name="jp.co.omronsoft.wnnext.skin.std_dark_type2_HW" path="cust/app/SkinStdDark_HMS" ss="FF7A4A18B2AF7F498B54AC7B68ED6A38130F0F01BFA07548DDD6B0A9066D4A2B" version="7"/>
+<package name="jp.co.omronsoft.wnnext.skin.std_light_type2_HW" path="cust/app/SkinStdLight_HMS" ss="FF7A4A18B2AF7F498B54AC7B68ED6A38130F0F01BFA07548DDD6B0A9066D4A2B" version="7"/>
+<package name="com.huawei.tmecustomize" path="cust/app/TMECustomize" ss="2C4FDB5F942C28147856595697F82D42F965B08AB67002517551733929D2F6A8" version="1000005"/>
+</packages>

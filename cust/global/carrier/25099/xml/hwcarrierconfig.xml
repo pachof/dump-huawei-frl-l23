@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="16e9c08e597ec2d5e80456f474596ef6">
+  <dict>
+    <!--2019-03-15 16:51:45.000-->
+    <bool key="CFNRcChangeWithCFNL">false</bool>
+    <!--2020-05-25 16:36:31.000-->
+    <string key="EspAuthAlg">RCT_ALG_HMAC_SHA1</string>
+    <!--2020-05-25 16:36:31.000-->
+    <string key="EspEncAlg">RCT_ALG_AES128_CBC</string>
+    <!--2020-05-25 16:36:31.000-->
+    <int key="IPsecSaLifeTime">28800</int>
+    <!--2020-05-25 16:36:31.000-->
+    <string key="Ikev2DhGroup">RCT_ALG_MODP1024</string>
+    <!--2020-05-25 16:36:31.000-->
+    <string key="Ikev2EncAlg">RCT_ALG_AES128_CBC</string>
+    <!--2020-05-25 16:36:31.000-->
+    <string key="Ikev2HashAlg">RCT_ALG_HMAC_SHA1</string>
+    <!--2020-05-25 16:36:31.000-->
+    <int key="Ikev2IPsecSaRekeyTimeSec">19200</int>
+    <!--2020-05-25 16:36:31.000-->
+    <int key="Ikev2PcscfIpv4Address">20</int>
+    <!--2020-05-25 16:36:31.000-->
+    <int key="Ikev2PcscfIpv6Address">21</int>
+    <!--2020-05-25 16:36:31.000-->
+    <string key="Ikev2PrfAlg">RCT_ALG_HMAC_SHA1</string>
+    <!--2020-05-25 16:36:31.000-->
+    <int key="Ikev2SupportImeiImeisv">1</int>
+    <!--2019-03-15 16:51:45.000-->
+    <int key="callWaitingMode">3</int>
+    <!--2019-03-15 16:51:45.000-->
+    <bool key="carrier_default_volte_switch_on_bool">true</bool>
+    <!--2020-05-25 16:36:31.000-->
+    <bool key="carrier_default_wfc_ims_enabled_bool">false</bool>
+    <!--2019-03-15 16:51:45.000-->
+    <bool key="carrier_mmicode_unescapehtml_bool">true</bool>
+    <!--2019-03-15 16:51:45.000-->
+    <string key="carrier_volte_hd_icon_flag">10101010</string>
+    <!--2020-05-08 14:40:17.000-->
+    <string key="carrier_vowifi_hd_icon_flag">10101010</string>
+    <!--2019-03-15 16:51:45.000-->
+    <bool key="preferToUseUT">true</bool>
+    <!--2019-03-15 16:51:45.000-->
+    <int key="utBearType">2</int>
+    <!--2019-03-15 16:51:45.000-->
+    <int key="utBsfPort">80</int>
+    <!--2019-03-15 16:51:45.000-->
+    <int key="utNafPort">81</int>
+    <!--2019-03-15 16:51:45.000-->
+    <string key="utParamsCfg">4:1</string>
+    <!--2019-03-15 16:51:45.000-->
+    <int key="utUseApn">1</int>
+    <!--2020-05-25 16:36:31.000-->
+    <string key="vowifiHplmnListItem">25099, epdg.epc.mnc099.mcc250.pub.3gppnetwork.org</string>
+    <!--2020-05-25 16:36:31.000-->
+    <int key="vowifiRoamingConfig">0</int>
+    <!--2020-05-25 16:36:31.000-->
+    <bool key="vowifiStaticRoaming">true</bool>
+    <!--2020-05-25 16:36:31.000-->
+    <bool key="vowifiStaticUnroaming">true</bool>
+    <!--2020-05-25 16:36:31.000-->
+    <string key="vowifi_UT_APN">xcap.beeline.ru</string>
+    <!--2020-05-25 16:36:31.000-->
+    <int key="vowifi_mmsut_pdn_type">1</int>
+    <!--2020-05-25 16:36:31.000-->
+    <bool key="vowifi_mmsut_roaming_switch">true</bool>
+    <!--2020-05-25 16:36:31.000-->
+    <bool key="vowifi_roaming_switch">true</bool>
+    <!--2020-05-25 16:36:31.000-->
+    <bool key="vowifi_ut_switch">true</bool>
+  </dict>
+</config>

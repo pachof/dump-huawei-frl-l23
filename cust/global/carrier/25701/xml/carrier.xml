@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="0c2ec7db0274b8a9e791171ab85989ef">
+  <dict>
+    <!--2019-03-15 16:17:24.000-->
+    <bool key="hw_ussd_message_sound">true</bool>
+    <!--2019-03-15 16:17:24.000-->
+    <int key="max_message_size">307200</int>
+    <!--2019-03-15 16:17:24.000-->
+    <int key="num_match">9</int>
+    <!--2019-03-15 16:17:24.000-->
+    <int key="sms_to_mms_textthreshold">11</int>
+    <!--2019-03-15 16:17:24.000-->
+    <string key="voicemail_carrier">FE Velcom</string>
+    <!--2019-03-15 16:17:24.000-->
+    <string key="voicemail_number">+375296000441</string>
+    <!--2019-03-15 16:17:24.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

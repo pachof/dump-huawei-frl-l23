@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="ad516b89920cada5fafe18bfe34e2614">
+  <dict>
+    <!--2019-03-15 16:00:43.000-->
+    <int key="max_message_size">307200</int>
+    <!--2019-03-15 16:00:43.000-->
+    <int key="sms_to_mms_textthreshold">5</int>
+    <!--2019-03-15 16:00:43.000-->
+    <string key="voicemail_carrier">BH Mobile</string>
+    <!--2019-03-15 16:00:43.000-->
+    <string key="voicemail_number">+38761123123</string>
+    <!--2019-03-15 16:00:43.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

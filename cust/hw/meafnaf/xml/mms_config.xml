@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mms_config>
+  <!--2020-03-30 15:16:12.000-->
+  <string name="custAdaptListForbidMms">42601</string>
+  <!--2019-03-15 16:08:43.000-->
+  <bool name="enableSendingBlankSMS">true</bool>
+  <!--2019-03-15 16:08:43.000-->
+  <bool name="enableShortPhoneNumberLink">true</bool>
+  <!--2019-12-17 11:19:21.000-->
+  <bool name="enableUseLocalTime">true</bool>
+  <!--2019-03-15 16:08:43.000-->
+  <bool name="isChangeClassZeroMessageShow">true</bool>
+</mms_config>

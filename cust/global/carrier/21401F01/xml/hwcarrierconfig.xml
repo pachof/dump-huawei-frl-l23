@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="63265f9ff9cbe891709a468348959bd8">
+  <dict>
+    <!--2019-03-15 16:46:06.000-->
+    <bool key="CFNRcChangeWithCFNL">false</bool>
+    <!--2019-03-15 16:46:06.000-->
+    <int key="callWaitingMode">3</int>
+    <!--2019-03-15 16:46:06.000-->
+    <bool key="carrier_cfnrypopup_bool">true</bool>
+    <!--2019-03-15 16:46:06.000-->
+    <int key="carrier_cfnrytime_int">5</int>
+    <!--2019-03-15 16:46:06.000-->
+    <bool key="carrier_hide_lte_high_speed_bool">true</bool>
+    <!--2019-03-15 16:46:06.000-->
+    <string key="carrier_volte_hd_icon_flag">00000000</string>
+    <!--2019-03-15 16:46:06.000-->
+    <bool key="carrier_volte_show_switch_bool">false</bool>
+    <!--2019-07-12 15:45:08.000-->
+    <string key="carrier_vowifi_hd_icon_flag">00000000</string>
+    <!--2019-03-15 16:46:06.000-->
+    <string key="dcFailCauseForNonVolteSim">33</string>
+    <!--2019-03-15 16:46:06.000-->
+    <string key="dcFailCauseToReleaseApn">27,32,33</string>
+    <!--2020-07-25 17:38:36.000-->
+    <bool key="enriched_call_switch">false</bool>
+    <!--2019-03-15 16:46:06.000-->
+    <bool key="groupChatDefaultsToMMS">false</bool>
+    <!--2020-01-19 15:35:38.000-->
+    <bool key="hide_nr_tile_flag">true</bool>
+    <!--2019-03-15 16:46:06.000-->
+    <string key="hide_violence_number_from_mcc">34-016</string>
+    <!--2019-03-15 16:46:06.000-->
+    <bool key="hw_prefered_apn_by_imsi">true</bool>
+    <!--2019-03-15 16:46:06.000-->
+    <bool key="preferToUseUT">true</bool>
+    <!--2019-03-15 16:46:06.000-->
+    <array key="read_only_apn_types_string_array">
+      <string></string>
+    </array>
+    <!--2019-03-15 16:46:06.000-->
+    <int key="setDefaultNoReplyTimer">-1</int>
+    <!--2019-03-15 16:46:06.000-->
+    <int key="smsToMmsTextThreshold">5</int>
+    <!--2019-03-15 16:46:06.000-->
+    <bool key="smsUsesSimpleCharactersOnly">true</bool>
+    <!--2019-03-15 16:46:06.000-->
+    <string key="utParamsCfg">0:1,17:1</string>
+    <!--2019-03-15 16:46:06.000-->
+    <int key="utUseApn">1</int>
+  </dict>
+</config>

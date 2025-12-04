@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="1dc6c36d4dbab36207781b8a1df3a2fb">
+  <dict>
+    <!--2019-03-15 16:18:30.000-->
+    <bool key="clir_config_enable">true</bool>
+    <!--2019-03-15 16:18:30.000-->
+    <string key="default_protocol">IPV4V6</string>
+    <!--2019-03-15 16:18:30.000-->
+    <bool key="delay_detach_switch">true</bool>
+    <!--2019-03-15 16:18:30.000-->
+    <string key="hw_cust_long_vmNum">+56991610500</string>
+    <!--2020-05-19 21:16:32.000-->
+    <string key="hw_custom_display_for_networkmode">NR:5G;LTE:4G</string>
+    <!--2019-03-15 16:18:30.000-->
+    <string key="hw_networkname_normal">all,LTE:4G;CA:4G+;MiMo:4G+;CAMiMo:4G+</string>
+    <!--2020-05-19 21:16:32.000-->
+    <string key="hw_nwmode_pref_bymccmnc">9,2,1</string>
+    <!--2020-05-19 21:16:32.000-->
+    <string key="hw_nwmode_pref_bymccmnc_5G">65,9,2,1</string>
+    <!--2019-03-15 16:18:30.000-->
+    <int key="max_message_size">307200</int>
+    <!--2019-03-15 16:18:30.000-->
+    <int key="num_match">8</int>
+    <!--2019-03-15 16:18:30.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2019-03-15 16:18:30.000-->
+    <bool key="pre_apn_unable">true</bool>
+    <!--2019-03-15 16:18:30.000-->
+    <string key="roaming_protocol">IPV4V6</string>
+    <!--2019-03-15 16:18:30.000-->
+    <int key="sms_7bit_enabled">1</int>
+    <!--2019-04-26 11:49:59.000-->
+    <int key="sms_center_editable_for_slot">0</int>
+    <!--2019-03-15 16:18:30.000-->
+    <int key="sms_to_mms_textthreshold">-1</int>
+    <!--2019-03-15 16:18:30.000-->
+    <string key="voicemail_carrier">Movistar</string>
+    <!--2019-03-15 16:18:30.000-->
+    <string key="voicemail_number">500</string>
+    <!--2019-03-15 16:18:30.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

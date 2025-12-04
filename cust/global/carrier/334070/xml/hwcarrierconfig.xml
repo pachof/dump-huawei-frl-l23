@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="91026b7dc8c5ff9bc8ac9ebb961ab63a">
+  <dict>
+    <!--2019-03-15 16:24:24.000-->
+    <bool key="carrier_hide_clir_bool">true</bool>
+  </dict>
+</config>

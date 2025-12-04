@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="7f091bd42700ffef9d59a85d655d754f">
+  <dict>
+    <!--2019-03-15 15:51:18.000-->
+    <int key="max_message_size">307200</int>
+    <!--2019-03-15 15:51:18.000-->
+    <int key="num_match">7</int>
+    <!--2019-03-15 15:51:18.000-->
+    <int key="sms_to_mms_textthreshold">5</int>
+    <!--2019-03-15 15:51:18.000-->
+    <string key="voicemail_carrier">Home Celullar</string>
+    <!--2019-03-15 15:51:18.000-->
+    <string key="voicemail_number">*151</string>
+    <!--2019-03-15 15:51:18.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

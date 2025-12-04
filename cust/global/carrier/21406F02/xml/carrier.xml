@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="5ac41799787255205bacbd93986bc1a6">
+  <dict>
+    <!--2019-03-15 16:07:43.000-->
+    <int key="max_message_size">307200</int>
+    <!--2019-03-15 16:07:43.000-->
+    <int key="num_match">9</int>
+    <!--2019-03-15 16:07:43.000-->
+    <int key="sms_7bit_enabled">1</int>
+    <!--2019-03-15 16:07:43.000-->
+    <int key="sms_to_mms_textthreshold">5</int>
+    <!--2019-03-15 16:07:43.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2019-03-15 16:07:43.000-->
+    <string key="virtual_ecclist_withcard">+112,+911</string>
+    <!--2019-03-15 16:07:43.000-->
+    <string key="virtualnet_operatorname">telecable</string>
+    <!--2019-03-15 16:07:43.000-->
+    <string key="voicemail_carrier">TeleCable</string>
+    <!--2019-03-15 16:07:43.000-->
+    <string key="voicemail_number">333</string>
+    <!--2019-03-15 16:07:43.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

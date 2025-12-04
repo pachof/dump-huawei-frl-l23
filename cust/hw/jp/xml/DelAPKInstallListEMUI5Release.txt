@@ -1,0 +1,2 @@
+/cust/app/SkinStdDark_HMS/SkinStdDark_HMS.apk
+/cust/app/SkinStdLight_HMS/SkinStdLight_HMS.apk

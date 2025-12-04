@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="c4a15dcd6cd39dfb14528dfd118d986e">
+  <dict>
+    <!--2019-03-15 16:19:49.000-->
+    <bool key="carrier_xcap_data_roaming_switch">true</bool>
+    <!--2019-03-15 16:19:49.000-->
+    <string key="hide_sepcial_apn_form_list">hos</string>
+    <!--2019-03-15 16:19:49.000-->
+    <string key="hw_4g_custom_display_for_networklist">4G:LTE</string>
+    <!--2019-03-15 16:19:49.000-->
+    <string key="hw_4g_custom_display_for_networkmode">4G:LTE</string>
+    <!--2019-03-15 16:19:49.000-->
+    <string key="hw_4g_custom_display_for_switch">4G:LTE</string>
+    <!--2020-02-08 18:18:29.000-->
+    <string key="hw_custom_display_for_networkmode">NR:5G</string>
+    <!--2019-03-15 16:19:49.000-->
+    <string key="hw_networkname_normal">all,LTE:LTE;CA:LTE</string>
+    <!--2020-02-28 11:20:25.000-->
+    <bool key="hw_remove_3g_only">true</bool>
+    <!--2019-03-15 16:19:49.000-->
+    <int key="max_message_size">307200</int>
+    <!--2019-03-15 16:19:49.000-->
+    <int key="num_match">10</int>
+    <!--2019-03-15 16:19:49.000-->
+    <int key="num_match_short">7</int>
+    <!--2019-03-15 16:19:49.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2019-03-15 16:19:49.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2019-03-15 16:19:49.000-->
+    <int key="set_new_apn_port">8080</int>
+    <!--2019-09-20 10:24:33.000-->
+    <bool key="show_volte_switch_in_nsa">true</bool>
+    <!--2019-03-15 16:19:49.000-->
+    <int key="sms_to_mms_textthreshold">6</int>
+    <!--2019-03-15 16:19:49.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2019-03-15 16:19:49.000-->
+    <string key="virtual_ecclist_withcard">+112,+999</string>
+    <!--2019-03-15 16:19:49.000-->
+    <string key="virtualnet_operatorname">telering</string>
+    <!--2019-03-15 16:19:49.000-->
+    <bool key="vm_edit_not_to_sim_bool">true</bool>
+    <!--2019-03-15 16:19:49.000-->
+    <string key="voicemail_carrier">tele.ring</string>
+    <!--2020-07-02 10:01:37.000-->
+    <string key="voicemail_number">+436762200</string>
+    <!--2019-03-15 16:19:49.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

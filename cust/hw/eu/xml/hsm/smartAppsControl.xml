@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<policy>
+  <package name="com.wizway.nfcagent">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="com.mobileiron">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="fr.bouyguestelecom.agent.companion">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="com.vodafone.vodafone360updates">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="fr.bouyguestelecom.ecm.android">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="al.myvodafone.android">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="com.zentity.vodafone">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="com.appseleration.android.selfcare">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="es.vodafone.mobile.mivodafone">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="com.myvodafoneapp">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="com.myvodafone.android">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="hu.vodafone.apps.myvodafone">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="com.VodafoneIreland.MyVodafone">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="it.vodafone.my190">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="com.vodafone.android">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="com.vodafone.mCare">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="ro.vodafone.mcare.android">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="za.co.vodacom.android.app">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="com.vodafone.smhs">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="com.vodafone.selfservis">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="be.belgacom.hello">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="fr.bouyguestelecom.vvmandroid">
+    <item name="isShow">1</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="com.altice.android.myapps">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="com.orange.vvm">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="com.vodafone.vsosband">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">1</item>
+    <item name="autoAwakedBy">1</item>
+    <item name="background">0</item>
+  </package>
+  <package name="net.soti.mobicontrol.androidwork">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="net.soti.mobicontrol.enterprise.huawei">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="de.hdd.telematik.pilot1000">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="com.tikle.turkcellGollerCepte">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="com.altice.android.myapps.hms">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="it.iliad.android.vvm">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">1</item>
+  </package>
+  <package name="fr.freemobile.android.vvm">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">1</item>
+  </package>
+  <package name="re.free.mobile.android.vvm">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">1</item>
+  </package>
+  <package name="com.sfr.android.sfrjeux.hms">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="fr.gouv.android.stopcovid">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="com.gov.mcmc.projectcatur">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="my.gov.onegovappstore.mysejahtera">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="my.gov.onegovappstore.mytrace">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="com.thaialert.app">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="ph.abizo.pro.covid">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="sg.gov.tech.bluetrace">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="sg.gov.homer">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="com.telkom.tracencare">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="com.minsvyaz.gosuslugi.stopcorona">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="com.dawsoftware.contacttracker">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="nic.goi.aarogyasetu">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="in.gov.punjab.cova">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="mx.gob.www">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="co.gov.ins.guardianes">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="cl.gob.digital.coronappcoronApp">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="peruentusmanos.gob.pe">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="ae.haad.staysafe.stayathome">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="com.knasirayaz.mohapcovid">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="ae.gov.dha.covid19">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="com.nhs.online.nhsonline">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="com.tforh.csafe">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="citamovil.saludresponde">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="cat.gencat.mobi.StopCovid19Cat">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="de.rki.coronadatenspende">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="it.lispa.sire.app.mobile.allertalom">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="com.vost.covid19mobile">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="pl.nask.droid.kwarantannadomowa">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="cz.covid19cz.erouska">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="tr.gov.saglik.hayatevesigar">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="at.roteskreuz.stopcorona">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="no.simula.smittestopp">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="tctp.androidv1">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="tctpofficer.androidv2">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="com.sepuluh.rumahaman">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="com.vnptit.innovation.ncovi">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="com.cuarentenapp">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="uy.gub.salud.plancovid19uy">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="ar.gob.coronavirus">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="com.agetic.coronavirusapp">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="com.hardmodeinteractive.coronavirus">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="br.gov.datasus.guardioes">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="ae.tracecovid.app">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="doh.health.shield">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="ae.gov.dha.covid19.paramedic">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="com.naraakom.androidgp">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="com.naraakom.android">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="moh.gov.sa.mawid">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="sa.gov.nic.tawakkalna">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="com.healthcarekw.app">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="com.moi.covid19">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="bh.bahrain.corona.tracker">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="eg.com.eserve.sehatmisr">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="sk.marekgogol.zostanzdravy">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+  <package name="se.vardguiden1177">
+    <item name="isShow">0</item>
+    <item name="operation">2</item>
+    <item name="autoStart">0</item>
+    <item name="autoAwakedBy">0</item>
+    <item name="background">0</item>
+  </package>
+</policy>

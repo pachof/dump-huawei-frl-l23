@@ -1,0 +1,7 @@
+
+#
+# ADDITIONAL PRODUCT PROPERTIES
+#
+ro.build.characteristics=default
+ro.boot.dynamic_partitions=true
+hw_mc.os_camera.hide_aux_api1_camera_id=true

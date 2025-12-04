@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="360648b1fcc829a95cc919ecb0cea81b">
+  <dict>
+    <!--2019-03-15 16:40:02.000-->
+    <int key="max_message_size">307200</int>
+    <!--2019-03-15 16:40:02.000-->
+    <int key="num_match">9</int>
+    <!--2019-03-15 16:40:02.000-->
+    <int key="sms_to_mms_textthreshold">5</int>
+    <!--2019-03-15 16:40:02.000-->
+    <string key="voicemail_carrier">Ziggo</string>
+    <!--2019-03-15 16:40:02.000-->
+    <string key="voicemail_number">31686501233</string>
+    <!--2019-03-15 16:40:02.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

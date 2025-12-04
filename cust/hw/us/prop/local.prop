@@ -1,0 +1,54 @@
+# 2019-03-15 16:53:36.000
+gsm.sigcust.gsm=5,false,-109,-105,-98,-91,-85
+# 2019-03-15 16:53:36.000
+gsm.sigcust.lte=5,false,-124,-117,-109,-104,-94
+# 2019-03-15 16:53:36.000
+gsm.sigcust.umts=5,false,-120,-108,-102,-96,-88
+# 2019-03-15 16:53:36.000
+hw.net.tcp.buffersize.hspa=460800,460800,734003,16777,100663,301990
+# 2019-03-15 16:53:36.000
+hw.net.tcp.buffersize.lte=2560000,4194304,8388608,262144,524288,1048576
+# 2019-03-15 16:53:36.000
+ro.camera.cos_ttpic_supported=false
+# 2019-03-15 16:53:36.000
+ro.config.att.tone=true
+# 2019-07-16 11:51:03.000
+ro.config.bundle_opta_mnc=239
+# 2019-07-16 11:51:03.000
+ro.config.bundle_optb_mnc=362
+# 2019-07-16 11:51:26.000
+ro.config.bundle_optx_mnc=55
+# 2019-03-15 16:53:36.000
+ro.config.csp_enable=true
+# 2019-03-15 16:53:36.000
+ro.config.delay_setapn=true
+# 2019-03-15 16:53:36.000
+ro.config.hw_mmi_code=0,00,*0,*1,*2,*3,*4,*5,*6,*7,*8,*9,#0,#1,#2,#3,#4,#5,#6,#7,#8,#9
+# 2019-03-15 16:53:36.000
+ro.config.hw_mmi_ignore_list=*272#911
+# 2019-03-15 16:53:36.000
+ro.config.hw_opta=567
+# 2019-03-15 16:53:36.000
+ro.config.hw_optb=840
+# 2019-07-27 09:43:48.000
+ro.config.hw_power_voice_key=false
+# 2019-03-15 16:53:36.000
+ro.config.hw_sim_activation=true
+# 2019-03-15 16:53:36.000
+ro.config.keyguard_unusedata=true
+# 2019-03-15 16:53:36.000
+ro.config.music_region=lowfreq
+# 2019-03-15 16:53:36.000
+ro.config.vm_prioritymode=2
+# 2019-03-15 16:53:36.000
+ro.config.voice_cfg=normal
+# 2019-03-15 16:53:36.000
+ro.odm.gsm.fastdormancy.mode=3
+# 2019-03-15 16:53:36.000
+ro.odm.gsm.fd.screen=2
+# 2019-03-15 16:53:36.000
+ro.odm.gsm.fd.time_scroff=3000
+# 2019-03-15 16:53:36.000
+ro.product.CustCVersion=C567
+# 2019-03-15 16:53:36.000
+ro.vendor.config.camera.region=bm

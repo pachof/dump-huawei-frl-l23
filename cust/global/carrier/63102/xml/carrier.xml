@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="f1e5bcf279812b2edd76f6813ab9de91">
+  <dict>
+    <!--2019-03-15 16:56:47.000-->
+    <int key="num_match">9</int>
+    <!--2019-03-15 16:56:47.000-->
+    <int key="sms_coding_national">3</int>
+    <!--2019-03-15 16:56:47.000-->
+    <string key="voicemail_carrier">Unitel</string>
+    <!--2019-03-15 16:56:47.000-->
+    <string key="voicemail_number">00244923119123</string>
+    <!--2019-03-15 16:56:47.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

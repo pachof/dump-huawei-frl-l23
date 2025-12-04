@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="945db5f8bdd1278295c0dd0401abc5bc">
+  <dict>
+    <!--2019-03-15 16:50:13.000-->
+    <int key="max_message_size">307200</int>
+    <!--2020-06-09 11:22:54.000-->
+    <int key="num_match">8</int>
+    <!--2019-03-15 16:50:13.000-->
+    <int key="sms_to_mms_textthreshold">5</int>
+    <!--2019-03-15 16:50:13.000-->
+    <string key="virtualnet_operatorname">Lebara</string>
+    <!--2019-03-15 16:50:13.000-->
+    <string key="voicemail_carrier">Lebara</string>
+    <!--2019-05-05 11:11:02.000-->
+    <string key="voicemail_number">004550101515</string>
+    <!--2019-03-15 16:50:13.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

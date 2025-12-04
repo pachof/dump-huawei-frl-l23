@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2019-03-15 16:56:36.000-->
+  <integer default_cbs_state="2"/>
+  <!--2020-05-12 10:34:54.000-->
+  <string hw_predefined_eap_sim="Telekom_SIM:EAP_AKA"/>
+  <!--2019-03-15 16:56:36.000-->
+  <integer hwdefault_CheckIntervalt="-1"/>
+  <!--2019-03-15 16:56:36.000-->
+  <string show_master_toggle="true"/>
+</resources>

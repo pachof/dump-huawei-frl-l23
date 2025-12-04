@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="27ea4b649ff7afb82b0fff20867e71e1">
+  <dict>
+    <!--2019-03-15 16:54:26.000-->
+    <string key="SMSCAddress">+27829129</string>
+    <!--2019-03-15 16:54:26.000-->
+    <bool key="cbs_del_2b_switch">true</bool>
+    <!--2019-03-15 16:54:26.000-->
+    <int key="num_match">9</int>
+    <!--2019-11-05 15:06:39.000-->
+    <int key="plmn_esm_flag">0</int>
+    <!--2019-03-15 16:54:26.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2019-03-15 16:54:26.000-->
+    <bool key="pre_apn_unable">true</bool>
+    <!--2019-03-15 16:54:26.000-->
+    <bool key="remove_apn_MVNO">true</bool>
+    <!--2019-03-15 16:54:26.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2019-03-15 16:54:26.000-->
+    <string key="virtual_ecclist_withcard">+112,+911</string>
+    <!--2019-03-15 16:54:26.000-->
+    <string key="virtualnet_operatorname">Vodacom SA</string>
+    <!--2019-03-15 16:54:26.000-->
+    <string key="voicemail_carrier">Vodacom</string>
+    <!--2019-03-15 16:54:26.000-->
+    <string key="voicemail_number">132</string>
+    <!--2019-03-15 16:54:26.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2019-03-15 16:27:29.000-->
+  <integer default_cbs_state="2"/>
+  <!--2019-03-15 16:27:29.000-->
+  <integer hwdefault_CheckIntervalt="-1"/>
+  <!--2019-03-15 16:27:29.000-->
+  <string show_master_toggle="true"/>
+</resources>

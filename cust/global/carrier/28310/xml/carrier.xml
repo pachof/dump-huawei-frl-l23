@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="566a434d7296a9d4f86c19d9027d1ace">
+  <dict>
+    <!--2019-03-15 15:44:28.000-->
+    <int key="max_message_size">307200</int>
+    <!--2019-03-15 15:44:28.000-->
+    <int key="num_match">8</int>
+    <!--2019-03-15 15:44:28.000-->
+    <int key="sms_to_mms_textthreshold">11</int>
+    <!--2019-03-15 15:44:28.000-->
+    <string key="voicemail_carrier">Orange Armenia</string>
+    <!--2019-03-15 15:44:28.000-->
+    <string key="voicemail_number">444</string>
+    <!--2019-03-15 15:44:28.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

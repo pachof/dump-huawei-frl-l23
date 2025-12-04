@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="a66df48f5cca7766e061815a19f9c96a">
+  <dict>
+    <!--2019-03-15 16:32:36.000-->
+    <bool key="hw_add_4g_only">true</bool>
+    <!--2019-06-13 17:42:06.000-->
+    <string key="hw_nwmode_pref_bymccmnc_5G">65,11,9,3,2,1</string>
+  </dict>
+</config>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="660b62bfd28a1eaad3732936da4d1cb8">
+  <dict>
+    <!--2019-03-15 16:38:06.000-->
+    <int key="num_match">10</int>
+    <!--2019-03-15 16:38:06.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2019-03-15 16:38:06.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2019-03-15 16:38:06.000-->
+    <string key="virtual_ecclist_withcard">+112</string>
+    <!--2019-03-15 16:38:06.000-->
+    <string key="virtualnet_operatorname">o2 - de</string>
+  </dict>
+</config>

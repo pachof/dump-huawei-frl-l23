@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="12992bbdf79574a99a432650bbeab65b">
+  <dict>
+    <!--2019-03-15 16:19:04.000-->
+    <int key="num_match">7</int>
+    <!--2019-03-15 16:19:04.000-->
+    <string key="voicemail_carrier">Tele2</string>
+    <!--2019-03-15 16:19:04.000-->
+    <string key="voicemail_number">2000</string>
+    <!--2019-03-15 16:19:04.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

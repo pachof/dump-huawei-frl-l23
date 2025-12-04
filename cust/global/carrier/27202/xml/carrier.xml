@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="a763ffe0a9aa05ce81ade0705e134fe6">
+  <dict>
+    <!--2019-05-21 09:09:36.000-->
+    <bool key="data_roaming_switch">true</bool>
+    <!--2019-05-08 18:21:37.000-->
+    <bool key="hw_data_roam_option">true</bool>
+    <!--2019-03-15 16:33:01.000-->
+    <int key="max_message_size">307200</int>
+    <!--2019-03-15 16:33:01.000-->
+    <int key="num_match">7</int>
+    <!--2019-03-15 16:33:01.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2019-03-28 16:56:02.000-->
+    <bool key="single_pdp_enabled">true</bool>
+    <!--2019-03-15 16:33:01.000-->
+    <int key="sms_to_mms_textthreshold">5</int>
+    <!--2019-03-15 16:33:01.000-->
+    <string key="voicemail_carrier">O2</string>
+    <!--2019-03-15 16:33:01.000-->
+    <string key="voicemail_number">171</string>
+    <!--2019-03-15 16:33:01.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

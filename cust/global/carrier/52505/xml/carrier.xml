@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="6bcb9cb23ab1cedefb1318ced8aa29d5">
+  <dict>
+    <!--2019-03-15 15:49:45.000-->
+    <int key="num_match">8</int>
+    <!--2019-03-15 15:49:45.000-->
+    <bool key="support_vn_ecc">true</bool>
+  </dict>
+</config>

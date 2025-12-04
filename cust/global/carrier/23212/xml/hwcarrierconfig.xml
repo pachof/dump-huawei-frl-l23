@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="57848deb85dcbaedf9bb5cf91723e1b7">
+  <dict>
+    <!--2020-02-20 22:01:25.000-->
+    <bool key="carrier_cs_show_calltrans_bool">false</bool>
+    <!--2019-03-15 16:46:35.000-->
+    <bool key="groupChatDefaultsToMMS">false</bool>
+  </dict>
+</config>

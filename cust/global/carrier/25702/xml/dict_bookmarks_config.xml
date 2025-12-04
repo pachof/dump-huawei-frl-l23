@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config hashvalue="59dfe227e510f7ef8b6c1f3161731237">
+  <dict>
+    <dict key="bookmarks_folders">
+      <array key="bookmarks_folders_language">
+        <dict>
+          <array key="bookmarks">
+            <dict>
+              <string key="title">Яндекс</string>
+              <string key="url">http://www.yandex.ru/?clid=1875763</string>
+            </dict>
+            <dict>
+              <string key="title">Huawei Consumer</string>
+              <string key="url">http://www.huawei.by</string>
+            </dict>
+          </array>
+        </dict>
+      </array>
+    </dict>
+  </dict>
+</config>

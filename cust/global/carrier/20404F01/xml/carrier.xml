@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="1046c155b8801afc69819d97c233865a">
+  <dict>
+    <!--2019-03-15 16:53:26.000-->
+    <string key="SMSCAddress">+316540881000</string>
+    <!--2019-03-15 16:53:26.000-->
+    <string key="hw_networkname_normal">all,GSM:G</string>
+    <!--2019-03-15 16:53:26.000-->
+    <int key="max_message_size">307200</int>
+    <!--2019-03-15 16:53:26.000-->
+    <int key="num_match">9</int>
+    <!--2019-03-15 16:53:26.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2019-03-15 16:53:26.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2019-03-15 16:53:26.000-->
+    <bool key="pre_apn_unable">true</bool>
+    <!--2019-03-15 16:53:26.000-->
+    <bool key="remove_apn_MVNO">true</bool>
+    <!--2019-03-15 16:53:26.000-->
+    <int key="sms_to_mms_textthreshold">-1</int>
+    <!--2019-03-15 16:53:26.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2019-03-15 16:53:26.000-->
+    <string key="virtual_ecclist_withcard">+112</string>
+    <!--2019-03-15 16:53:26.000-->
+    <string key="virtualnet_operatorname">vodafone NL</string>
+    <!--2019-03-15 16:53:26.000-->
+    <string key="voicemail_carrier">Vodafone</string>
+    <!--2019-03-15 16:53:26.000-->
+    <string key="voicemail_number">+31654501233</string>
+    <!--2019-03-15 16:53:26.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

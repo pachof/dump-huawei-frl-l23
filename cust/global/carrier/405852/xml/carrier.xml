@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="489390b2ecd50a1be9724046f88317ea">
+  <dict>
+    <!--2019-07-10 11:55:19.000-->
+    <int key="num_match">10</int>
+    <!--2019-03-15 16:51:25.000-->
+    <int key="plmn_esm_flag">1</int>
+  </dict>
+</config>

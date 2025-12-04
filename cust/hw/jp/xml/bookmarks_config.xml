@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config hashvalue="49bdeef7d6ab825a997eb78f940e9df0">
+  <dict>
+    <dict key="bookmarks_folders">
+      <array key="bookmarks_folders_language">
+        <dict>
+          <array key="bookmarks">
+            <dict>
+              <string key="title">ファーウェイ・ジャパン・デバイス</string>
+              <string key="url">https://consumer.huawei.com/jp/</string>
+            </dict>
+            <dict>
+              <string key="title">Google</string>
+              <string key="url">https://www.google.com</string>
+            </dict>
+            <dict>
+              <string key="title">ホーム - YouTube</string>
+              <string key="url">https://m.youtube.com/</string>
+            </dict>
+            <dict>
+              <string key="title">Google マップ</string>
+              <string key="url">https://maps.google.com/</string>
+            </dict>
+            <dict>
+              <string key="title">Gmail</string>
+              <string key="url">https://mail.google.com</string>
+            </dict>
+            <dict>
+              <string key="title">Google ドライブ</string>
+              <string key="url">https://drive.google.com/</string>
+            </dict>
+            <dict>
+              <string key="title">フォト- Google フォト</string>
+              <string key="url">https://photos.google.com</string>
+            </dict>
+            <dict>
+              <string key="title">Google  翻訳</string>
+              <string key="url">https://translate.google.com/</string>
+            </dict>
+            <dict>
+              <string key="title">Amazon</string>
+              <string key="url">https://www.amazon.co.jp</string>
+            </dict>
+            <dict>
+              <string key="title">PayPayモール</string>
+              <string key="url">https://paypaymall.yahoo.co.jp/</string>
+            </dict>
+            <dict>
+              <string key="title">Twitter</string>
+              <string key="url">https://mobile.twitter.com</string>
+            </dict>
+            <dict>
+              <string key="title">Instagram</string>
+              <string key="url">https://www.instagram.com</string>
+            </dict>
+            <dict>
+              <string key="title">Yahoo! JAPAN</string>
+              <string key="url">https://m.yahoo.co.jp</string>
+            </dict>
+            <dict>
+              <string key="title">NHKあなたの天気・防災</string>
+              <string key="url">https://www.nhk.or.jp</string>
+            </dict>
+            <dict>
+              <string key="title">クックパッド</string>
+              <string key="url">https://cookpad.com</string>
+            </dict>
+            <dict>
+              <string key="title">食べログ</string>
+              <string key="url">https://s.tabelog.com/</string>
+            </dict>
+            <dict>
+              <string key="title">ホットペッパーグルメ</string>
+              <string key="url">https://www.hotpepper.jp</string>
+            </dict>
+            <dict>
+              <string key="title">三井住友銀行</string>
+              <string key="url">https://www.smbc.co.jp</string>
+            </dict>
+            <dict>
+              <string key="title">三菱ＵＦＪ銀行</string>
+              <string key="url">https://www.bk.mufg.jp</string>
+            </dict>
+            <dict>
+              <string key="title">みずほ銀行</string>
+              <string key="url">https://www.mizuhobank.co.jp</string>
+            </dict>
+          </array>
+        </dict>
+      </array>
+    </dict>
+  </dict>
+</config>

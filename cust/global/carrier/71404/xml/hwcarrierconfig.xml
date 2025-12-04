@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="45e9919188115e7a541841541bcff8bf">
+  <dict>
+    <!--2019-03-15 16:40:48.000-->
+    <bool key="CFNRcChangeWithCFNL">false</bool>
+    <!--2019-03-15 16:40:48.000-->
+    <int key="callWaitingMode">11</int>
+    <!--2019-03-15 16:40:48.000-->
+    <bool key="carrier_default_volte_switch_on_bool">true</bool>
+    <!--2019-03-15 16:40:48.000-->
+    <string key="carrier_volte_hd_icon_flag">10101010</string>
+    <!--2019-03-15 16:40:48.000-->
+    <bool key="preferToUseUT">true</bool>
+    <!--2019-03-15 16:40:48.000-->
+    <int key="utBsfPort">8443</int>
+    <!--2019-03-15 16:40:48.000-->
+    <bool key="utForbiddenWhenVolteSwitchOff">false</bool>
+    <!--2019-03-15 16:40:48.000-->
+    <int key="utNafPort">8443</int>
+  </dict>
+</config>

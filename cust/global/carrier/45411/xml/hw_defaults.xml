@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2020-06-15 20:19:25.000-->
+  <string cbs_vibrate_channel="4370,4383"/>
+  <!--2020-06-15 20:20:45.000-->
+  <string hide_extreme_settings="true"/>
+  <!--2020-06-15 20:20:45.000-->
+  <string hide_severe_settings="true"/>
+  <!--2020-06-15 20:22:14.000-->
+  <string use_full_volume_channel="4370,4383"/>
+</resources>

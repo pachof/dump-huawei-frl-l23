@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="ca759e09b13cae6bb1411faa2537fc46">
+  <dict>
+    <!--2019-03-15 16:56:42.000-->
+    <int key="num_match">9</int>
+    <!--2019-03-15 16:56:42.000-->
+    <int key="sms_7bit_enabled">1</int>
+    <!--2019-03-15 16:56:42.000-->
+    <string key="voicemail_carrier">Tuenti</string>
+    <!--2019-03-15 16:56:42.000-->
+    <string key="voicemail_number">22123</string>
+    <!--2019-03-15 16:56:42.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

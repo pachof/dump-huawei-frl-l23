@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="c16028edd09531970279cd323bdaeb12">
+  <dict>
+    <!--2019-03-15 16:15:29.000-->
+    <string key="default_protocol">IPV4V6</string>
+    <!--2019-03-15 16:15:29.000-->
+    <string key="hw_networkname_normal">all,LTE:4G;CA:4G+;MiMo:4G+;CAMiMo:4G+</string>
+    <!--2019-03-15 16:15:29.000-->
+    <int key="num_match">8</int>
+    <!--2019-03-15 16:15:29.000-->
+    <string key="roaming_protocol">IPV4V6</string>
+    <!--2019-03-15 16:15:29.000-->
+    <int key="sms_7bit_enabled">1</int>
+    <!--2019-03-15 16:15:29.000-->
+    <string key="voicemail_carrier">ICE</string>
+    <!--2019-03-15 16:15:29.000-->
+    <string key="voicemail_number">1190</string>
+    <!--2019-03-15 16:15:29.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

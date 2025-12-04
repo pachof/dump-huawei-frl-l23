@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config hashvalue="adb484df2bef33c482aad047c076194a">
+  <dict>
+    <dict key="bookmarks_folders">
+      <array key="bookmarks_folders_language">
+        <dict>
+          <array key="bookmarks">
+            <dict>
+              <string key="title">Prensalibre</string>
+              <string key="url">https://www.prensalibre.com/</string>
+            </dict>
+            <dict>
+              <string key="title">Publinews</string>
+              <string key="url">https://www.publinews.gt/gt/</string>
+            </dict>
+            <dict>
+              <string key="title">Soy502</string>
+              <string key="url">https://soy502.com/</string>
+            </dict>
+            <dict>
+              <string key="title">Guatemala.com</string>
+              <string key="url">https://www.guatemala.com/</string>
+            </dict>
+            <dict>
+              <string key="title">Portal SAT</string>
+              <string key="url">https://portal.sat.gob.gt/portal/</string>
+            </dict>
+            <dict>
+              <string key="title">OLX</string>
+              <string key="url">https://www.olx.com.gt/</string>
+            </dict>
+            <dict>
+              <string key="title">Twitter</string>
+              <string key="url">https://twitter.com/</string>
+            </dict>
+            <dict>
+              <string key="title">Emisoras Unidas</string>
+              <string key="url">https://emisorasunidas.com/</string>
+            </dict>
+          </array>
+        </dict>
+      </array>
+    </dict>
+  </dict>
+</config>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2019-03-15 16:35:57.000-->
+  <string hw_predefined_eap_sim="Swisscom_Auto_Login"/>
+  <!--2019-03-15 16:35:57.000-->
+  <integer hwdefault_CheckIntervalt="15"/>
+  <!--2019-03-15 16:35:57.000-->
+  <string settings.global.calllog_support_cnap="true"/>
+  <!--2019-03-15 16:35:57.000-->
+  <string settings.global.hw_nfcpay_screenoff_disable="true"/>
+</resources>

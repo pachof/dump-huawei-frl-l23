@@ -1,0 +1,14 @@
+base address: 0x40078000
+board name: 
+cmdline: bootopt=64S3,32N2,64N2 androidboot.selinux=enforcing unmovable_isolate1=2:256M,3:312M,4:348M buildvariant=user
+dtb offset: 0x0bc08000
+header version: 2
+image type: AOSP
+kernel offset: 0x00008000
+original size: 25165824
+os version: 10.0.0
+page size: 2048
+ramdisk compression: gzip
+ramdisk offset: 0x16f88000
+sigtype: AVBv2
+tags offset: 0x0bc08000

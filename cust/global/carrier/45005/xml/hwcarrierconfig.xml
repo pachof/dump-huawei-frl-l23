@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="b5a510c1baba496e693cbadbebc7a5cd">
+  <dict>
+    <!--2019-03-15 16:48:50.000-->
+    <string key="carrier_volte_hd_icon_flag">01010101</string>
+    <!--2019-03-15 16:48:50.000-->
+    <int key="maxMessageSize">1048576</int>
+    <!--2019-03-15 16:48:50.000-->
+    <int key="smsToMmsTextThreshold">1</int>
+    <!--2019-03-15 16:48:50.000-->
+    <bool key="volte_lowbattery_endcall">true</bool>
+  </dict>
+</config>

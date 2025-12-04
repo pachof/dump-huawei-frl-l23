@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apns version="8">
+  <apn carrier="Maxis Internet" mcc="502" mnc="12" apn="unet" user="maxis" server="" password="wap" proxy="" port="" mmsproxy="202.75.133.49" mmsport="80" mmsc="http://172.16.74.100:10021/mmsc" type="default,supl,mms" authtype="1" protocol="IPV4V6" roaming_protocol="IPV4V6"/>
+  <apn carrier="HOS" mcc="502" mnc="12" apn="HOS" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="xcap" protocol="IPV4V6"/>
+</apns>

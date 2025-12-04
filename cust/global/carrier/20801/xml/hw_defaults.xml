@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2019-03-15 16:28:17.000-->
+  <integer hwdefault_CheckIntervalt="15"/>
+  <!--2019-03-15 16:28:17.000-->
+  <string settings.global.hw_nfc_gsma="true"/>
+  <!--2019-06-29 17:05:32.000-->
+  <string settings.global.hw_vvm_filter_on="true"/>
+  <!--2019-03-15 16:28:17.000-->
+  <string settings.global.hw_wifidialog_skip="true"/>
+  <!--2019-03-15 16:28:17.000-->
+  <string settings.global.show_data_cost_tip_list="true"/>
+  <!--2019-03-15 16:28:17.000-->
+  <string settings.global.show_skip_wifi_dialog_list="true"/>
+</resources>

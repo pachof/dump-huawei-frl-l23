@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="fefda2ec2354c9d7df5d68ce649e65f9">
+  <dict>
+    <!--2019-03-15 16:49:31.000-->
+    <bool key="delay_detach_switch">true</bool>
+    <!--2019-03-15 16:49:31.000-->
+    <int key="max_message_size">307200</int>
+    <!--2019-03-15 16:49:31.000-->
+    <int key="num_match">8</int>
+    <!--2019-03-15 16:49:31.000-->
+    <int key="sms_to_mms_textthreshold">5</int>
+  </dict>
+</config>

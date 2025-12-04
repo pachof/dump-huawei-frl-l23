@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="822d1d9ec34638f6143f0f04c514b72f">
+  <dict>
+    <!--2019-03-15 16:26:16.000-->
+    <bool key="clir_config_enable">true</bool>
+    <!--2019-05-21 09:09:36.000-->
+    <bool key="data_roaming_switch">true</bool>
+    <!--2019-03-15 16:26:16.000-->
+    <string key="default_protocol">IPV4V6</string>
+    <!--2019-03-15 16:26:16.000-->
+    <bool key="delay_detach_switch">true</bool>
+    <!--2019-03-15 16:26:16.000-->
+    <string key="hw_4g_custom_display_for_networklist">4G:LTE</string>
+    <!--2019-03-15 16:26:16.000-->
+    <string key="hw_4g_custom_display_for_networkmode">4G:LTE</string>
+    <!--2019-03-15 16:26:16.000-->
+    <string key="hw_4g_custom_display_for_switch">4G:LTE</string>
+    <!--2019-03-15 16:26:16.000-->
+    <string key="hw_networkname_normal">all,LTE:LTE;CA:LTE+;MiMo:LTE+;CAMiMo:LTE+</string>
+    <!--2020-05-19 21:16:32.000-->
+    <string key="hw_nwmode_pref_bymccmnc">9,2,1</string>
+    <!--2020-05-19 21:16:32.000-->
+    <string key="hw_nwmode_pref_bymccmnc_5G">65,9,2,1</string>
+    <!--2019-03-15 16:26:16.000-->
+    <int key="num_match">7</int>
+    <!--2019-03-15 16:26:16.000-->
+    <string key="roaming_protocol">IPV4V6</string>
+    <!--2019-03-15 16:26:16.000-->
+    <int key="sms_7bit_enabled">1</int>
+    <!--2019-03-15 16:26:16.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2019-08-13 15:41:43.000-->
+    <string key="virtual_ecclist_withcard">+112,+911</string>
+    <!--2019-03-15 16:26:16.000-->
+    <string key="virtualnet_operatorname">Virgin Mobile</string>
+    <!--2019-03-15 16:26:16.000-->
+    <string key="voicemail_carrier">VIRGIN MOBILE</string>
+    <!--2019-03-15 16:26:16.000-->
+    <string key="voicemail_number">*4828</string>
+    <!--2019-03-15 16:26:16.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

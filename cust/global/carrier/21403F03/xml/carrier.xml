@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="0ecbb749efa020a06ff4398861481678">
+  <dict>
+    <!--2020-02-25 11:20:56.000-->
+    <bool key="5G_network_mode_item_disable">true</bool>
+    <!--2019-09-26 13:33:30.000-->
+    <int key="hw_omacp_apn_policy">-1</int>
+    <!--2020-04-22 21:56:43.000-->
+    <int key="key_signal_strength_level_rule">1</int>
+    <!--2019-03-15 16:48:46.000-->
+    <int key="max_message_size">307200</int>
+    <!--2019-03-15 16:48:46.000-->
+    <int key="num_match">9</int>
+    <!--2019-11-05 15:06:44.000-->
+    <int key="plmn_esm_flag">0</int>
+    <!--2019-03-15 16:48:46.000-->
+    <int key="sms_7bit_enabled">1</int>
+    <!--2019-03-15 16:48:46.000-->
+    <int key="sms_to_mms_textthreshold">5</int>
+    <!--2019-03-15 16:48:46.000-->
+    <string key="voicemail_carrier">RACC</string>
+    <!--2019-03-15 16:48:46.000-->
+    <string key="voicemail_number">2242</string>
+    <!--2019-03-15 16:48:46.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

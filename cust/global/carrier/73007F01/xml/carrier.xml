@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="2f803e4ce00e4fcf01e0fc68e0e9ca2a">
+  <dict>
+    <!--2019-03-15 16:27:37.000-->
+    <string key="default_protocol">IPV4V6</string>
+    <!--2019-03-15 16:27:37.000-->
+    <int key="num_match">8</int>
+    <!--2019-03-15 16:27:37.000-->
+    <string key="roaming_protocol">IPV4V6</string>
+    <!--2019-03-15 16:27:37.000-->
+    <int key="sms_7bit_enabled">1</int>
+    <!--2019-03-15 16:27:37.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2019-03-15 16:27:37.000-->
+    <string key="virtual_ecclist_withcard">+133,+112,+911</string>
+    <!--2019-03-15 16:27:37.000-->
+    <string key="virtualnet_operatorname">Colo-Colo Móvil</string>
+    <!--2019-03-15 16:27:37.000-->
+    <string key="voicemail_carrier">Colo colo</string>
+    <!--2019-03-15 16:27:37.000-->
+    <string key="voicemail_number">500</string>
+    <!--2019-03-15 16:27:37.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

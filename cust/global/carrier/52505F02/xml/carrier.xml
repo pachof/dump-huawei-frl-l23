@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="e6ff1b6ef49745be7deea730df3ff26b">
+  <dict>
+    <!--2019-03-15 15:49:45.000-->
+    <int key="num_match">8</int>
+    <!--2019-03-15 15:49:45.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2019-08-07 11:58:38.000-->
+    <string key="virtual_ecclist_withcard">+999</string>
+    <!--2019-08-07 11:58:38.000-->
+    <string key="virtualnet_operatorname">giga</string>
+  </dict>
+</config>

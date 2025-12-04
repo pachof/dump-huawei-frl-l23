@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="17a8e29d914fdb40a92e5b4d4820d8d0">
+  <dict>
+    <!--2019-03-15 16:10:06.000-->
+    <string key="hw_replace_country_code">+81</string>
+    <!--2019-03-15 16:10:06.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2019-03-28 16:56:02.000-->
+    <bool key="single_pdp_enabled">true</bool>
+  </dict>
+</config>

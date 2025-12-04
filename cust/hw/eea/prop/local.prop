@@ -1,0 +1,22 @@
+# 2019-07-16 11:51:03.000
+ro.config.bundle_opta_mnc=222
+# 2019-07-16 11:51:03.000
+ro.config.bundle_optb_mnc=365
+# 2019-07-16 11:51:26.000
+ro.config.bundle_optx_mnc=168
+# 2019-05-09 10:31:28.000
+ro.config.hw_nfc_def_route=2
+# 2019-03-15 16:28:29.000
+ro.config.hw_opta=431
+# 2019-03-15 16:28:29.000
+ro.config.hw_optb=999
+# 2019-03-15 16:28:29.000
+ro.hwcamera.def_beauty_level=0
+# 2019-03-15 16:28:29.000
+ro.odm.gsm.fastdormancy.mode=1
+# 2019-03-15 16:28:29.000
+ro.odm.gsm.fd.screen=3
+# 2019-03-15 16:28:29.000
+ro.product.CustCVersion=C431
+# 2019-03-15 16:28:29.000
+ro.vendor.config.camera.region=oz

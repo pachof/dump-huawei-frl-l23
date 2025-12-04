@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="43f74be9a799f8bbb0e363633b804187">
+  <dict>
+    <!--2019-03-15 16:15:17.000-->
+    <bool key="carrier_prefered_apn_by_imsi">true</bool>
+    <!--2019-03-15 16:15:17.000-->
+    <bool key="clir_config_enable">true</bool>
+    <!--2020-07-07 10:59:54.000-->
+    <int key="default_always_allow_mms_by_mccmnc">0</int>
+    <!--2019-03-15 16:15:17.000-->
+    <bool key="delay_detach_switch">true</bool>
+    <!--2019-06-13 17:42:06.000-->
+    <string key="hw_nwmode_pref_bymccmnc_5G">65,9,3,1</string>
+    <!--2019-03-15 16:15:17.000-->
+    <bool key="hw_remove_3g_only">true</bool>
+    <!--2019-03-15 16:15:17.000-->
+    <bool key="hw_stk_display_without_setupmenu">true</bool>
+    <!--2019-03-15 16:15:17.000-->
+    <int key="num_match">9</int>
+    <!--2019-03-15 16:15:17.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2019-03-15 16:15:17.000-->
+    <int key="sms_7bit_enabled">1</int>
+    <!--2019-03-15 16:15:17.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2019-03-15 16:15:17.000-->
+    <string key="ussd_regex">(^\d{1,2}$)</string>
+    <!--2019-03-15 16:15:17.000-->
+    <string key="virtual_ecclist_withcard">+112,+911</string>
+    <!--2019-03-15 16:15:17.000-->
+    <string key="virtualnet_operatorname">JAZZTEL</string>
+    <!--2019-03-15 16:15:17.000-->
+    <string key="voicemail_carrier">Jazztel</string>
+    <!--2019-03-15 16:15:17.000-->
+    <string key="voicemail_number">1222</string>
+    <!--2019-03-15 16:15:17.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

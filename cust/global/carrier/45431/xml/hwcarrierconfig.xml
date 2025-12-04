@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="8aa4ee122a18268cc34530bd9a2dda39">
+  <dict>
+    <!--2019-03-15 15:54:03.000-->
+    <bool key="carrier_hide_ca_bool">true</bool>
+    <!--2019-03-15 15:54:03.000-->
+    <string key="carrier_networkmode_gstyle">true</string>
+    <!--2019-08-08 17:29:02.000-->
+    <string key="carrier_volte_hd_icon_flag">10101010</string>
+    <!--2019-07-26 17:17:40.000-->
+    <bool key="preferToUseUT">true</bool>
+  </dict>
+</config>

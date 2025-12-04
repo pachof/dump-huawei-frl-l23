@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config hashvalue="f92ee16d9a1570184dea552b029eeb04">
+  <dict>
+    <dict key="bookmarks_folders">
+      <array key="bookmarks_folders_language">
+        <dict>
+          <array key="bookmarks">
+            <dict>
+              <string key="title">Free</string>
+              <string key="url">http://mobile.free.fr</string>
+            </dict>
+            <dict>
+              <string key="title">Mon compte</string>
+              <string key="url">http://mobile.free.fr/moncompte</string>
+            </dict>
+          </array>
+        </dict>
+      </array>
+    </dict>
+  </dict>
+</config>

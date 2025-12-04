@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config hashvalue="f1f25d65b1d0ca42bd5d389676111c52">
+  <dict>
+    <dict key="bookmarks_folders">
+      <array key="bookmarks_folders_language">
+        <dict>
+          <array key="bookmarks">
+            <dict>
+              <string key="title">Trabajo CR</string>
+              <string key="url">http://www.mtss.go.cr/</string>
+            </dict>
+            <dict>
+              <string key="title">La Nacion</string>
+              <string key="url">https://www.nacion.com</string>
+            </dict>
+            <dict>
+              <string key="title">Teletica</string>
+              <string key="url">https://teletica.com/</string>
+            </dict>
+            <dict>
+              <string key="title">UNAFUT</string>
+              <string key="url">http://www.unafut.com/</string>
+            </dict>
+            <dict>
+              <string key="title">AYA</string>
+              <string key="url">https://www.aya.go.cr/SitePages/Principal.aspx</string>
+            </dict>
+            <dict>
+              <string key="title">CNFL</string>
+              <string key="url">https://www.cnfl.go.cr/</string>
+            </dict>
+            <dict>
+              <string key="title">Booking.com</string>
+              <string key="url">https://www.booking.com/</string>
+            </dict>
+            <dict>
+              <string key="title">Poder Judicial</string>
+              <string key="url">https://pj.poder-judicial.go.cr/</string>
+            </dict>
+          </array>
+        </dict>
+      </array>
+    </dict>
+  </dict>
+</config>

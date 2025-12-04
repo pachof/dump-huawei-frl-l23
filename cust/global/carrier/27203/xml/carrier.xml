@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="f2c013579cb5c26e9c2cc060ff9e1212">
+  <dict>
+    <!--2019-03-15 15:47:31.000-->
+    <int key="max_message_size">307200</int>
+    <!--2019-03-15 15:47:31.000-->
+    <int key="num_match">7</int>
+    <!--2019-03-15 15:47:31.000-->
+    <int key="sms_to_mms_textthreshold">5</int>
+    <!--2019-03-15 15:47:31.000-->
+    <string key="voicemail_carrier">Meteor</string>
+    <!--2019-03-15 15:47:31.000-->
+    <string key="voicemail_number">171</string>
+    <!--2019-03-15 15:47:31.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

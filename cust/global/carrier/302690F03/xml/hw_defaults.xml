@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2019-05-30 11:55:50.000-->
+  <string duplicate_compare_body="true"/>
+  <!--2019-03-15 16:27:52.000-->
+  <string hw_predefined_eap_sim="BELL_WIFI;5099251212"/>
+  <!--2019-03-15 16:27:52.000-->
+  <string settings.global.calllog_support_cnap="true"/>
+  <!--2019-03-15 16:27:52.000-->
+  <string settings.global.network_auto_phone="true"/>
+</resources>

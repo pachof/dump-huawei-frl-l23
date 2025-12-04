@@ -1,0 +1,108 @@
+# 2019-03-15 16:24:01.000
+drm.service.enabled=true
+# 2020-06-12 18:57:44.000
+hw_mc.meetime.mode=2
+# 2020-06-12 18:57:44.000
+hw_mc.pms.recovery_preset_app=true
+# 2019-03-15 16:24:01.000
+ro.camera.cos_ttpic_supported=false
+# 2019-03-28 14:27:55.000
+ro.camera.front_ai_default=off
+# 2019-03-28 14:34:50.000
+ro.camera.master_ai_default=off
+# 2019-03-15 16:24:01.000
+ro.config.CphsOnsEnabled=false
+# 2019-03-15 16:24:01.000
+ro.config.amr_wb_show_hd=true
+# 2019-03-15 16:24:01.000
+ro.config.attach_apn_enabled=true
+# 2019-03-15 16:24:01.000
+ro.config.auto_hide_operatorname=true
+# 2019-07-16 11:51:03.000
+ro.config.bundle_opta_mnc=223
+# 2019-07-16 11:51:03.000
+ro.config.bundle_optb_mnc=365
+# 2019-07-16 11:51:26.000
+ro.config.bundle_optx_mnc=125
+# 2019-03-15 16:24:01.000
+ro.config.ce_authenticate=1
+# 2019-03-15 16:24:01.000
+ro.config.custom_short_codes=true
+# 2019-03-15 16:24:01.000
+ro.config.delay_updatename=true
+# 2019-03-15 16:24:01.000
+ro.config.device_time_for_mms=true
+# 2019-03-15 16:24:01.000
+ro.config.dualimsi.disableap=true
+# 2019-03-15 16:24:01.000
+ro.config.force_auto_plmn=20815
+# 2019-03-15 16:24:01.000
+ro.config.hw.BH_defaultlanguage=true
+# 2019-05-10 11:32:44.000
+ro.config.hw.region=eu
+# 2019-03-15 16:24:01.000
+ro.config.hw_allow_rs_mms=true
+# 2019-03-15 16:24:01.000
+ro.config.hw_always_allow_mms=6
+# 2019-03-15 16:24:01.000
+ro.config.hw_delay_detach_time=5
+# 2019-03-15 16:24:01.000
+ro.config.hw_ecc_with_sim_card=true
+# 2019-03-15 16:24:01.000
+ro.config.hw_is_pre_post_pay=true
+# 2019-05-09 10:31:28.000
+ro.config.hw_nfc_def_route=2
+# 2019-03-15 16:24:01.000
+ro.config.hw_nfc_on=true
+# 2019-03-15 16:24:01.000
+ro.config.hw_omacp=1
+# 2019-03-15 16:24:01.000
+ro.config.hw_opta=432
+# 2019-03-15 16:24:01.000
+ro.config.hw_optb=999
+# 2019-03-15 16:24:01.000
+ro.config.hw_rcs_vendor=true
+# 2019-06-21 14:43:48.000
+ro.config.hw_show_no_sim=false
+# 2019-03-15 16:24:01.000
+ro.config.hw_support_vm_ecc=true
+# 2019-03-15 16:24:01.000
+ro.config.hw_volte_icon_rule=0
+# 2019-03-15 16:24:01.000
+ro.config.keyguard_unusedata=false
+# 2019-03-15 16:24:01.000
+ro.config.music_region=balance
+# 2019-03-15 16:24:01.000
+ro.config.readiccid_switch=true
+# 2019-03-15 16:24:01.000
+ro.config.show_data_act_all_apn=true
+# 2019-03-15 16:24:01.000
+ro.config.support_ca=false
+# 2019-03-15 16:24:01.000
+ro.config.ussd_linkify=true
+# 2019-03-15 16:24:01.000
+ro.config.vm_prioritymode=2
+# 2019-03-15 16:24:01.000
+ro.huawei.cust.drm.fl_only=false
+# 2019-03-15 16:24:01.000
+ro.huawei.cust.oma=true
+# 2019-03-15 16:24:01.000
+ro.huawei.cust.oma_drm=true
+# 2019-03-15 16:24:01.000
+ro.hwcamera.def_beauty_level=0
+# 2019-03-28 14:33:55.000
+ro.hwcamera.default_back_mode=com.huawei.camera2.mode.photo.PhotoMode
+# 2019-03-15 16:24:01.000
+ro.odm.gsm.fastdormancy.mode=1
+# 2019-03-15 16:24:01.000
+ro.odm.gsm.fd.screen=3
+# 2019-03-15 16:24:01.000
+ro.odm.gsm.fd.time_scroff=4000
+# 2019-05-07 10:01:01.000
+ro.odm.rp_ack_tpdu_plmn=20820,20801
+# 2019-03-15 16:24:01.000
+ro.product.CustCVersion=C432
+# 2019-03-15 16:24:01.000
+ro.product.locale=en-GB
+# 2019-03-15 16:24:01.000
+ro.vendor.config.camera.region=oz

@@ -1,0 +1,16 @@
+# 2019-07-16 11:51:03.000
+ro.config.bundle_opta_mnc=297
+# 2019-07-16 11:51:03.000
+ro.config.bundle_optb_mnc=365
+# 2019-07-16 11:51:26.000
+ro.config.bundle_optx_mnc=146
+# 2019-03-15 16:34:04.000
+ro.config.empty.package=true
+# 2019-03-15 16:34:04.000
+ro.config.hw_opta=900
+# 2019-03-15 16:34:04.000
+ro.config.hw_optb=999
+# 2019-05-07 10:01:01.000
+ro.odm.rp_ack_tpdu_plmn=20820,20801
+# 2019-03-15 16:34:04.000
+ro.product.CustCVersion=C900

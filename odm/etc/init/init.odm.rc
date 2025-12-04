@@ -1,0 +1,46 @@
+on early-init
+
+on init
+
+on early-fs
+
+on fs
+
+on post-fs
+
+on post-fs-data
+
+on early-boot
+
+on boot
+    setprop ro.odm.build.fingerprint ${ro.product.odm.brand}/${ro.product.odm.name}/${ro.product.odm.device}_${ro.boot.product.hardware.sku}:${ro.build.version.release}/${ro.vendor.build.id}/${ro.vendor.build.version.incremental}:${ro.vendor.build.type}/${ro.vendor.build.tags}
+    setprop persist.radio.multisim.config dsds
+    setprop persist.vendor.radio.msimmode dsds
+    setprop persist.vendor.radio.multisimslot 2
+    setprop ro.odm.phycomcfg_version FRL_x1
+
+on property:ro.boot.product.hardware.sku=FRLM-L01
+    symlink /odm/hw_odm/FRLM-L01/etc/permissions /mnt/hw_odm
+    setprop persist.radio.multisim.config ss
+    setprop persist.vendor.radio.msimmode ss
+    setprop persist.vendor.radio.multisimslot 1
+on property:ro.boot.product.hardware.sku=FRLM-L03
+    symlink /odm/hw_odm/FRLM-L03/etc/permissions /mnt/hw_odm
+    setprop persist.radio.multisim.config ss
+    setprop persist.vendor.radio.msimmode ss
+    setprop persist.vendor.radio.multisimslot 1
+on property:ro.boot.product.hardware.sku=FRHM-L01F
+    symlink /odm/hw_odm/FRHM-L01F/etc/permissions /mnt/hw_odm
+    setprop persist.radio.multisim.config ss
+    setprop persist.vendor.radio.msimmode ss
+    setprop persist.vendor.radio.multisimslot 1
+
+service motion-hal-1-0 /vendor/bin/hw/vendor.huawei.hardware.motion@1.0-service
+    override
+    class late_start
+    user system
+    group system readproc
+    oneshot
+
+on property:sys.boot_completed=1
+    write /proc/self/reclaim file

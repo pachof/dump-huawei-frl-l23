@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="474a1d07c44539bc240ac5f1abadd27b">
+  <dict>
+    <!--2019-03-15 16:46:09.000-->
+    <int key="allow_mms_property_int">4</int>
+    <!--2019-03-15 16:46:09.000-->
+    <int key="hw_default_networkmode">3</int>
+    <!--2019-03-15 16:46:09.000-->
+    <int key="max_message_size">307200</int>
+    <!--2019-03-15 16:46:09.000-->
+    <int key="sms_to_mms_textthreshold">5</int>
+  </dict>
+</config>

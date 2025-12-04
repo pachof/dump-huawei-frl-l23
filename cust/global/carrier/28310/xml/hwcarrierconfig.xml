@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="2597ddcbbcf2d73239d465aa0b655685">
+  <dict>
+    <!--2019-03-15 15:44:28.000-->
+    <bool key="carrier_default_volte_switch_on_bool">true</bool>
+    <!--2019-12-30 17:02:09.000-->
+    <string key="carrier_networkmode_gstyle">true</string>
+    <!--2019-03-15 15:44:28.000-->
+    <string key="carrier_volte_hd_icon_flag">00000000</string>
+    <!--2019-03-15 15:44:28.000-->
+    <bool key="preferToUseUT">true</bool>
+    <!--2019-03-15 15:44:28.000-->
+    <bool key="utForbiddenWhenVolteSwitchOff">false</bool>
+  </dict>
+</config>

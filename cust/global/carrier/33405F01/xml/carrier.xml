@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="e59501b93263da6a8e49fdce656c41b4">
+  <dict>
+    <!--2019-05-21 09:09:36.000-->
+    <bool key="data_roaming_switch">true</bool>
+    <!--2019-03-15 16:29:15.000-->
+    <string key="default_protocol">IPV4V6</string>
+    <!--2020-03-04 18:00:05.000-->
+    <string key="hide_sepcial_apn_form_list">supl.attmex.mx</string>
+    <!--2020-04-17 15:41:35.000-->
+    <string key="hw_4g_custom_display_for_networklist">4G:LTE</string>
+    <!--2020-05-08 14:20:11.000-->
+    <string key="hw_custom_display_for_networkmode">5G:NR</string>
+    <!--2019-03-15 16:29:15.000-->
+    <bool key="hw_data_roam_option">true</bool>
+    <!--2020-06-28 15:21:15.000-->
+    <string key="hw_networkname_normal">all,HSDPA:3G;HSUPA:3G;HSPA:3G;HSPA+:4G;LTE:4G LTE;CA:4G LTE+;MiMo:4G LTE+;CAMiMo:4G LTE+;256QAM:4G LTE+</string>
+    <!--2019-03-15 16:29:15.000-->
+    <int key="max_message_size">614400</int>
+    <!--2019-03-15 16:29:15.000-->
+    <int key="num_match">7</int>
+    <!--2019-03-15 16:29:15.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2019-03-15 16:29:15.000-->
+    <bool key="pre_apn_unable">true</bool>
+    <!--2019-03-15 16:29:15.000-->
+    <string key="roaming_protocol">IPV4V6</string>
+    <!--2020-06-01 15:54:10.000-->
+    <int key="sms_to_mms_textthreshold">6</int>
+    <!--2019-03-15 16:29:15.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2019-03-15 16:29:15.000-->
+    <string key="ussd_regex">(^\#9|\*228$)</string>
+    <!--2019-03-15 16:29:15.000-->
+    <string key="virtual_ecclist_withcard">+112,+911</string>
+    <!--2019-03-15 16:29:15.000-->
+    <string key="virtualnet_operatorname">AT&amp;T</string>
+    <!--2019-03-15 16:29:15.000-->
+    <string key="voicemail_carrier">IUSACELL</string>
+    <!--2019-03-15 16:29:15.000-->
+    <string key="voicemail_number">*86</string>
+    <!--2019-03-15 16:29:15.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

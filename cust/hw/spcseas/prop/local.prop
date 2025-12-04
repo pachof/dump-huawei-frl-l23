@@ -1,0 +1,52 @@
+# 2019-03-15 16:41:17.000
+ro.camera.cos_ttpic_supported=false
+# 2019-03-15 16:41:17.000
+ro.config.CphsOnsEnabled=false
+# 2019-07-16 17:35:05.000
+ro.config.bundle_opta_mnc=247
+# 2019-07-16 17:35:05.000
+ro.config.bundle_optb_mnc=365
+# 2019-07-16 17:35:05.000
+ro.config.bundle_optx_mnc=61
+# 2019-03-15 16:41:17.000
+ro.config.delay_updatename=true
+# 2019-05-10 11:32:44.000
+ro.config.hw.region=spcseas
+# 2019-03-15 16:41:17.000
+ro.config.hw_TW_emergencyNum=true
+# 2019-03-15 16:41:17.000
+ro.config.hw_nfc_def_route=2
+# 2019-03-15 16:41:17.000
+ro.config.hw_not_modify_wifi=Singtel WIFI,Wireless@SGx
+# 2019-03-15 16:41:17.000
+ro.config.hw_omacp=1
+# 2019-03-15 16:41:17.000
+ro.config.hw_opta=636
+# 2019-03-15 16:41:17.000
+ro.config.hw_optb=999
+# 2019-04-23 14:55:22.000
+ro.config.hw_show_no_sim=false
+# 2019-03-15 16:41:17.000
+ro.config.hw_support_vm_ecc=true
+# 2019-03-15 16:41:17.000
+ro.config.hw_volte_icon_rule=2
+# 2019-03-15 16:41:17.000
+ro.config.keyguard_unusedata=false
+# 2019-03-15 16:41:17.000
+ro.config.music_region=normal
+# 2019-03-15 16:41:17.000
+ro.config.vm_prioritymode=2
+# 2019-03-15 16:41:17.000
+ro.config.voice_cfg=force
+# 2019-03-15 16:41:17.000
+ro.hwpp_ds_fail=111
+# 2019-03-15 16:41:17.000
+ro.odm.gsm.fastdormancy.mode=1
+# 2019-03-15 16:41:17.000
+ro.product.CustCVersion=C636
+# 2019-03-15 16:41:17.000
+ro.product.locale=en-GB
+# 2019-03-15 16:41:17.000
+ro.sysui.plmn.cust=rcm
+# 2019-03-15 16:41:17.000
+ro.vendor.config.camera.region=ntdny

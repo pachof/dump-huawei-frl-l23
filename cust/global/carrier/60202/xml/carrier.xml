@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="87c82febb8058561ab9e19baed94b2c6">
+  <dict>
+    <!--2019-03-15 15:57:04.000-->
+    <int key="num_match">8</int>
+    <!--2019-03-15 15:57:04.000-->
+    <string key="voicemail_carrier">Vodafone</string>
+    <!--2019-03-15 15:57:04.000-->
+    <string key="voicemail_number">808</string>
+    <!--2019-03-15 15:57:04.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

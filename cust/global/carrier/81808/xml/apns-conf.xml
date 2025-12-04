@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apns version="8">
+  <apn carrier="5G.HUAWEI" mcc="818" mnc="08" apn="5G.HUAWEI" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="default" protocol="IP" roaming_protocol="IP"/>
+</apns>

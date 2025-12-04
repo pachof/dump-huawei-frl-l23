@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="b5d81e2be9437d8060827acac2bc0121">
+  <dict>
+    <!--2020-02-28 11:20:25.000-->
+    <string key="hw_custom_display_for_networkmode">NR:5G</string>
+    <!--2020-02-28 11:20:25.000-->
+    <bool key="hw_remove_3g_only">true</bool>
+    <!--2019-03-15 15:43:30.000-->
+    <int key="max_message_size">307200</int>
+    <!--2019-03-15 15:43:30.000-->
+    <int key="num_match">9</int>
+    <!--2020-02-19 19:52:08.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2019-12-26 17:09:17.000-->
+    <bool key="show_volte_switch_in_nsa">true</bool>
+    <!--2019-03-15 15:43:30.000-->
+    <int key="sms_to_mms_textthreshold">5</int>
+    <!--2019-03-15 15:43:30.000-->
+    <string key="voicemail_carrier">Tele2 NL</string>
+    <!--2019-03-15 15:43:30.000-->
+    <string key="voicemail_number">+31640192940</string>
+    <!--2019-03-15 15:43:30.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

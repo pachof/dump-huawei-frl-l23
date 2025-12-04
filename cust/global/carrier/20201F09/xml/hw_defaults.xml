@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2019-04-25 14:35:45.000-->
+  <integer default_cbs_state="1"/>
+  <!--2019-04-25 14:35:45.000-->
+  <string display_channel_default_off="919,920"/>
+  <!--2020-05-12 10:34:54.000-->
+  <string hw_predefined_eap_sim="COSMOTEWiFiAuto:EAP_AKA"/>
+  <!--2019-03-15 16:02:51.000-->
+  <integer hwdefault_CheckIntervalt="-1"/>
+  <!--2019-04-25 14:35:45.000-->
+  <string show_channel_settings="true"/>
+  <!--2019-03-15 16:02:51.000-->
+  <string show_master_toggle="true"/>
+</resources>

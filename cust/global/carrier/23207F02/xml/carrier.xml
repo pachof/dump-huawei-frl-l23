@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="709b0c48887506c5ad7195a9cb9bd876">
+  <dict>
+    <!--2019-03-15 16:45:59.000-->
+    <bool key="carrier_xcap_data_roaming_switch">true</bool>
+    <!--2019-05-10 18:47:17.000-->
+    <string key="hide_sepcial_apn_form_list">hos</string>
+    <!--2019-03-15 16:45:59.000-->
+    <string key="hw_4g_custom_display_for_networklist">4G:LTE</string>
+    <!--2019-03-15 16:45:59.000-->
+    <string key="hw_4g_custom_display_for_networkmode">4G:LTE</string>
+    <!--2019-03-15 16:45:59.000-->
+    <string key="hw_4g_custom_display_for_switch">4G:LTE</string>
+    <!--2020-02-28 11:20:25.000-->
+    <string key="hw_custom_display_for_networkmode">NR:5G</string>
+    <!--2019-03-15 16:45:59.000-->
+    <string key="hw_networkname_normal">all,LTE:LTE;CA:LTE</string>
+    <!--2020-02-28 11:20:25.000-->
+    <bool key="hw_remove_3g_only">true</bool>
+    <!--2019-03-15 16:45:59.000-->
+    <int key="num_match">10</int>
+    <!--2019-03-15 16:45:59.000-->
+    <int key="num_match_short">7</int>
+    <!--2019-03-15 16:45:59.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2019-03-15 16:45:59.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2019-09-20 10:24:33.000-->
+    <bool key="show_volte_switch_in_nsa">true</bool>
+    <!--2019-03-15 16:45:59.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2019-03-15 16:45:59.000-->
+    <string key="virtual_ecclist_withcard">+112,+999</string>
+    <!--2019-03-15 16:45:59.000-->
+    <bool key="vm_edit_not_to_sim_bool">true</bool>
+  </dict>
+</config>

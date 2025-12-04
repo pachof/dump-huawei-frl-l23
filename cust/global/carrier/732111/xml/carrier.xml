@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="0495407f148b5d4fef1c692de2661920">
+  <dict>
+    <!--2019-05-21 09:09:36.000-->
+    <bool key="data_roaming_switch">true</bool>
+    <!--2019-03-15 16:47:30.000-->
+    <string key="default_protocol">IPV4V6</string>
+    <!--2019-03-15 16:47:30.000-->
+    <string key="hw_4g_custom_display_for_networklist">4G:LTE</string>
+    <!--2019-03-15 16:47:30.000-->
+    <string key="hw_4g_custom_display_for_networkmode">4G:LTE</string>
+    <!--2019-03-15 16:47:30.000-->
+    <string key="hw_4g_custom_display_for_switch">4G:LTE</string>
+    <!--2020-05-08 19:32:14.000-->
+    <string key="hw_custom_display_for_networkmode">5G:NR</string>
+    <!--2019-03-15 16:47:30.000-->
+    <string key="hw_networkname_normal">all,LTE:4G;CA:4G;MiMo:4G;CAMiMo:4G</string>
+    <!--2019-03-15 16:47:30.000-->
+    <string key="hw_nwmode_pref_bymccmnc">9,3,2</string>
+    <!--2019-03-15 16:47:30.000-->
+    <bool key="hw_remove_2g_only">true</bool>
+    <!--2019-03-15 16:47:30.000-->
+    <int key="max_message_size">307200</int>
+    <!--2019-03-15 16:47:30.000-->
+    <int key="num_match">10</int>
+    <!--2019-03-15 16:47:30.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2019-03-15 16:47:30.000-->
+    <string key="roaming_protocol">IPV4V6</string>
+    <!--2019-03-15 16:47:30.000-->
+    <int key="sms_7bit_enabled">1</int>
+    <!--2019-04-26 11:49:59.000-->
+    <int key="sms_center_editable_for_slot">0</int>
+    <!--2019-03-15 16:47:30.000-->
+    <int key="sms_to_mms_textthreshold">11</int>
+    <!--2019-03-15 16:47:30.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2019-03-15 16:47:30.000-->
+    <string key="virtualnet_operatorname">TIGO</string>
+    <!--2019-03-15 16:47:30.000-->
+    <string key="voicemail_carrier">TIGO</string>
+    <!--2019-03-15 16:47:30.000-->
+    <string key="voicemail_number">*123</string>
+    <!--2019-03-15 16:47:30.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

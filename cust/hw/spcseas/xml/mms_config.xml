@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mms_config>
+  <!--2019-03-15 16:41:17.000-->
+  <bool name="enableShortPhoneNumberLink">true</bool>
+  <!--2019-03-15 16:41:17.000-->
+  <bool name="enableStrictAddrCharSet">true</bool>
+  <!--2019-03-15 16:41:17.000-->
+  <bool name="isChangeClassZeroMessageShow">true</bool>
+  <!--2019-03-15 16:41:17.000-->
+  <bool name="isUseGgSmsAddressCheck">false</bool>
+</mms_config>

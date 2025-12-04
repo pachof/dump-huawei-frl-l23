@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="d5c2d195539c0d7f9ca479253c8fc0d8">
+  <dict>
+    <!--2019-03-15 15:51:13.000-->
+    <int key="max_message_size">307200</int>
+    <!--2020-06-09 11:22:54.000-->
+    <int key="num_match">8</int>
+    <!--2019-03-15 15:51:13.000-->
+    <int key="sms_to_mms_textthreshold">5</int>
+    <!--2019-03-15 15:51:13.000-->
+    <string key="virtualnet_operatorname">CBB</string>
+  </dict>
+</config>

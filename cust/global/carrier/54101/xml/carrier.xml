@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="5d13751d157d342f1282e1c20b94dbbb">
+  <dict>
+    <!--2019-03-15 16:50:53.000-->
+    <string key="voicemail_carrier">SMILE</string>
+    <!--2019-03-15 16:50:53.000-->
+    <string key="voicemail_number">170</string>
+    <!--2019-03-15 16:50:53.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

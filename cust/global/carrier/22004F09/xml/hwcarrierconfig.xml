@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="08e1c0aeeed6bac7c226251aa9548070">
+  <dict>
+    <!--2019-03-15 16:00:08.000-->
+    <string key="carrier_volte_hd_icon_flag">00000000</string>
+    <!--2019-05-13 18:02:26.000-->
+    <bool key="mmi_002_004_none_csfb_bool">true</bool>
+    <!--2019-03-15 16:00:08.000-->
+    <int key="smsToMmsTextThreshold">2</int>
+    <!--2019-03-15 16:00:08.000-->
+    <bool key="utForbiddenWhenVolteSwitchOff">false</bool>
+    <!--2019-03-15 16:00:08.000-->
+    <string key="utParamsCfg">19:1</string>
+    <!--2019-03-15 16:00:08.000-->
+    <int key="utPreferOption">1</int>
+  </dict>
+</config>

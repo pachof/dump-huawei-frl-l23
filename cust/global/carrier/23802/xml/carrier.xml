@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="89fd8fe7664891a125e05144c764ecd1">
+  <dict>
+    <!--2019-03-15 16:49:14.000-->
+    <int key="max_message_size">307200</int>
+    <!--2020-06-09 11:22:54.000-->
+    <int key="num_match">8</int>
+    <!--2019-03-15 16:49:14.000-->
+    <int key="sms_to_mms_textthreshold">5</int>
+    <!--2019-03-15 16:49:14.000-->
+    <string key="virtualnet_operatorname">Telenor DK</string>
+    <!--2019-03-15 16:49:14.000-->
+    <string key="voicemail_carrier">Telenor</string>
+    <!--2019-03-15 16:49:14.000-->
+    <string key="voicemail_number">004560500000</string>
+    <!--2019-03-15 16:49:14.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

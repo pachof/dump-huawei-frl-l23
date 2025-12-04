@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="75ac2e75fb3adc6fa3ae54bb10f6e43c">
+  <dict>
+    <!--2019-03-15 16:04:21.000-->
+    <int key="num_match">10</int>
+    <!--2019-03-15 16:04:21.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2019-03-15 16:04:21.000-->
+    <bool key="support_vn_ecc">true</bool>
+  </dict>
+</config>

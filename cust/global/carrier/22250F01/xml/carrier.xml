@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="daafb5d8db5b9ef46ebf36a46a6fd91d">
+  <dict>
+    <!--2019-03-15 16:07:57.000-->
+    <int key="num_match">9</int>
+    <!--2019-03-15 16:07:57.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2019-03-15 16:07:57.000-->
+    <string key="virtual_ecclist_withcard">+112</string>
+    <!--2019-03-15 16:07:57.000-->
+    <string key="virtualnet_operatorname">ILIAD</string>
+  </dict>
+</config>

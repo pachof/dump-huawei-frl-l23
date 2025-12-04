@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config hashvalue="6de7266922ab884485d075caafc6d4fc">
+  <array key="apks">
+    <dict>
+      <array key="cardinfo">
+        <string>50216</string>
+      </array>
+      <int key="actiontype">1</int>
+      <string key="apkpackagename">com.digi.portal.mobdev.android</string>
+      <string key="apkpath">/hw_product/region_comm/oversea/app/MyDigi/MyDigi.apk</string>
+    </dict>
+    <dict>
+      <array key="cardinfo">
+        <string>52503</string>
+      </array>
+      <int key="actiontype">1</int>
+      <string key="apkpackagename">sg.gov.mnd.OneService</string>
+      <string key="apkpath">/hw_product/region_comm/oversea/app/OneService/OneService.apk</string>
+    </dict>
+    <dict>
+      <array key="cardinfo">
+        <string>52503</string>
+      </array>
+      <int key="actiontype">1</int>
+      <string key="apkpackagename">com.m1.mym1</string>
+      <string key="apkpath">/hw_product/region_comm/oversea/app/Mym1/Mym1.apk</string>
+    </dict>
+    <dict>
+      <array key="cardinfo">
+        <string>52503</string>
+      </array>
+      <int key="actiontype">1</int>
+      <string key="apkpackagename">deezer.android.app</string>
+      <string key="apkpath">/hw_product/region_comm/oversea/app/Deezer/Deezer.apk</string>
+    </dict>
+    <dict>
+      <array key="cardinfo">
+        <string>52503</string>
+      </array>
+      <int key="actiontype">1</int>
+      <string key="apkpackagename">com.korvac.liquid</string>
+      <string key="apkpath">/hw_product/region_comm/oversea/app/Korvac/Korvac.apk</string>
+    </dict>
+    <dict>
+      <array key="cardinfo">
+        <string>52505</string>
+      </array>
+      <int key="actiontype">1</int>
+      <string key="apkpackagename">com.starhub.csselfhelp</string>
+      <string key="apkpath">/hw_product/region_comm/oversea/app/MyStarHub/MyStarHub.apk</string>
+    </dict>
+    <dict>
+      <array key="cardinfo">
+        <string>52505</string>
+      </array>
+      <int key="actiontype">1</int>
+      <string key="apkpackagename">com.starhub.itv</string>
+      <string key="apkpath">/hw_product/region_comm/oversea/app/StarHubGo/StarHubGo.apk</string>
+    </dict>
+  </array>
+</config>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="f4dd4c96a90904518b6bc3d4160f9833">
+  <dict>
+    <!--2019-03-15 16:19:16.000-->
+    <string key="hw_networkname_normal">all,CA:4.5G</string>
+    <!--2019-03-15 16:19:16.000-->
+    <int key="num_match">10</int>
+    <!--2019-03-28 16:56:02.000-->
+    <bool key="single_pdp_enabled">true</bool>
+  </dict>
+</config>

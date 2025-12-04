@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2019-03-15 15:59:55.000-->
+  <integer alert_duration="10000"/>
+  <!--2019-03-15 15:59:55.000-->
+  <integer default_language_speech_state="2"/>
+  <!--2019-03-15 15:59:55.000-->
+  <string duplicate_compare_body="true"/>
+  <!--2019-03-15 15:59:55.000-->
+  <string settings.global.calllog_support_cnap="true"/>
+  <!--2019-07-01 14:21:33.000-->
+  <string settings.global.forbidden_msa_switch="true"/>
+  <!--2019-07-01 14:22:44.000-->
+  <string settings.global.supl_es_pdn_switch="true"/>
+  <!--2019-03-15 15:59:55.000-->
+  <string show_date_time_title="true"/>
+  <!--2019-03-15 15:59:55.000-->
+  <string use_full_volume="true"/>
+</resources>

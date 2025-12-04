@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="0ffb6f6f3966b772f5e5fe14fffe882a">
+  <dict>
+    <!--2020-06-05 15:57:12.000-->
+    <bool key="CFNRcChangeWithCFNL">false</bool>
+    <!--2020-06-05 15:57:12.000-->
+    <int key="callWaitingMode">11</int>
+    <!--2019-03-15 16:05:28.000-->
+    <bool key="carrier_hide_lte_high_speed_bool">true</bool>
+    <!--2019-03-15 16:05:28.000-->
+    <string key="carrier_wb_hd_icon_flag">000101</string>
+    <!--2019-03-15 16:05:28.000-->
+    <bool key="groupChatDefaultsToMMS">false</bool>
+    <!--2020-06-05 15:57:12.000-->
+    <bool key="preferToUseUT">true</bool>
+    <!--2020-06-05 15:57:12.000-->
+    <int key="setDefaultNoReplyTimer">5</int>
+    <!--2020-06-05 15:57:12.000-->
+    <int key="utBearType">2</int>
+    <!--2020-06-05 15:57:12.000-->
+    <int key="utBsfPort">443</int>
+    <!--2020-06-05 15:57:12.000-->
+    <bool key="utBsfUsehttps">true</bool>
+    <!--2020-06-05 15:57:12.000-->
+    <bool key="utForbiddenWhenVolteSwitchOff">false</bool>
+    <!--2020-06-05 15:57:12.000-->
+    <int key="utNafPort">443</int>
+    <!--2020-06-05 15:57:12.000-->
+    <bool key="utNafUseHttps">true</bool>
+    <!--2020-06-05 15:57:12.000-->
+    <int key="utUseApn">1</int>
+  </dict>
+</config>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="dc1297fba368ed5f9637e00692634123">
+  <dict>
+    <!--2019-03-15 15:47:08.000-->
+    <int key="num_match">7</int>
+    <!--2019-03-28 16:56:02.000-->
+    <bool key="single_pdp_enabled">true</bool>
+    <!--2019-03-15 15:47:08.000-->
+    <int key="sms_coding_national">3</int>
+  </dict>
+</config>

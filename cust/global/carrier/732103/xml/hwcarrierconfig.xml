@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="9deedb6388cee012c20f426c541b7f26">
+  <dict>
+    <!--2020-03-13 11:42:31.000-->
+    <bool key="CFNRcChangeWithCFNL">false</bool>
+    <!--2019-06-19 14:42:24.000-->
+    <int key="callWaitingMode">11</int>
+    <!--2019-04-28 15:47:08.000-->
+    <bool key="carrier_default_volte_switch_on_bool">true</bool>
+    <!--2019-04-26 11:20:26.000-->
+    <string key="carrier_volte_hd_icon_flag">10101010</string>
+    <!--2019-03-15 16:57:22.000-->
+    <bool key="groupChatDefaultsToMMS">false</bool>
+    <!--2019-06-19 14:42:24.000-->
+    <string key="impiDomain">ims.tigo.com.co</string>
+    <!--2019-04-28 15:47:08.000-->
+    <bool key="preferToUseUT">false</bool>
+    <!--2019-03-15 16:57:22.000-->
+    <bool key="smsUsesSimpleCharactersOnly">true</bool>
+    <!--2019-06-19 14:42:24.000-->
+    <int key="utBearType">2</int>
+    <!--2019-06-19 14:42:24.000-->
+    <int key="utBsfPort">80</int>
+    <!--2019-06-19 14:42:24.000-->
+    <bool key="utForbiddenWhenVolteSwitchOff">false</bool>
+    <!--2019-06-19 14:42:24.000-->
+    <string key="utParamsCfg">19:1,21:1</string>
+    <!--2019-06-19 14:42:24.000-->
+    <int key="utUseApn">1</int>
+  </dict>
+</config>

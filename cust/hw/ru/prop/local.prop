@@ -1,0 +1,74 @@
+# 2019-03-15 16:14:05.000
+drm.service.enabled=true
+# 2020-06-12 18:57:44.000
+hw_mc.meetime.mode=2
+# 2020-04-08 19:58:57.000
+hw_sc.assistant.vendor=yandex
+# 2019-03-15 16:14:05.000
+ro.camera.cos_ttpic_supported=false
+# 2019-03-15 16:14:05.000
+ro.config.CphsOnsEnabled=false
+# 2019-03-15 16:14:05.000
+ro.config.argesture_enable=1
+# 2019-03-15 16:14:05.000
+ro.config.attach_apn_enabled=true
+# 2019-07-16 11:51:03.000
+ro.config.bundle_opta_mnc=185
+# 2019-07-16 11:51:26.000
+ro.config.bundle_optb_mnc=347
+# 2019-07-16 11:51:26.000
+ro.config.bundle_optx_mnc=2
+# 2019-03-15 16:14:05.000
+ro.config.custom_short_codes=true
+# 2019-03-15 16:14:05.000
+ro.config.delay_updatename=true
+# 2019-03-15 16:14:05.000
+ro.config.device_time_for_mms=true
+# 2019-03-15 16:14:05.000
+ro.config.dualimsi.disableap=true
+# 2019-03-15 16:14:05.000
+ro.config.force_auto_plmn=20815
+# 2020-06-03 11:27:19.000
+ro.config.hicall=false
+# 2019-03-15 16:14:05.000
+ro.config.hw_always_allow_mms=6
+# 2019-03-15 16:14:05.000
+ro.config.hw_delay_detach_time=5
+# 2019-03-15 16:14:05.000
+ro.config.hw_is_pre_post_pay=true
+# 2019-03-15 16:14:05.000
+ro.config.hw_nfc_on=true
+# 2019-03-15 16:14:05.000
+ro.config.hw_opta=10
+# 2019-03-15 16:14:05.000
+ro.config.hw_optb=643
+# 2019-07-27 10:29:09.000
+ro.config.hw_power_voice_key=false
+# 2019-03-15 16:14:05.000
+ro.config.hw_volte_icon_rule=0
+# 2019-03-15 16:14:05.000
+ro.config.keyguard_unusedata=false
+# 2019-03-15 16:14:05.000
+ro.config.music_region=normal
+# 2019-03-15 16:14:05.000
+ro.config.show_data_act_all_apn=true
+# 2019-03-15 16:14:05.000
+ro.config.ussd_linkify=true
+# 2019-03-15 16:14:05.000
+ro.config.vm_prioritymode=2
+# 2019-03-15 16:14:05.000
+ro.huawei.cust.drm.fl_only=false
+# 2019-03-15 16:14:05.000
+ro.huawei.cust.oma_drm=true
+# 2019-03-15 16:14:05.000
+ro.odm.gsm.fastdormancy.mode=1
+# 2019-03-15 16:14:05.000
+ro.odm.gsm.fd.screen=3
+# 2019-03-15 16:14:05.000
+ro.odm.gsm.fd.time_scroff=4000
+# 2019-03-15 16:14:05.000
+ro.product.CustCVersion=C10
+# 2019-03-15 16:14:05.000
+ro.product.locale=ru-RU
+# 2019-03-15 16:14:05.000
+ro.vendor.config.camera.region=oz

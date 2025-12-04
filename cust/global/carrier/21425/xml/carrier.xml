@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="9abb6d45e3a254a816380fafd8905ddb">
+  <dict>
+    <!--2019-03-15 16:40:46.000-->
+    <int key="num_match">9</int>
+    <!--2019-03-15 16:40:46.000-->
+    <int key="sms_7bit_enabled">1</int>
+  </dict>
+</config>

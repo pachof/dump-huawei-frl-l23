@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="b2b2945cfbd85a84d7cbfce2b0f1cf41">
+  <dict>
+    <!--2019-03-15 16:03:01.000-->
+    <string key="voicemail_carrier">MASCOM</string>
+    <!--2019-03-15 16:03:01.000-->
+    <string key="voicemail_number">123</string>
+    <!--2019-03-15 16:03:01.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

@@ -1,0 +1,5 @@
+/cust/app/AutoInStallAPKFromMcc/AutoInStallAPKFromMcc.apk
+/cust/app/FirstBootGetCityInfo/FirstBootGetCityInfo.apk
+/cust/app/HwSARLevel/HwSARLevel.apk
+/cust/app/IndiaCalendar/IndiaCalendar.apk
+/cust/app/TMECustomize/TMECustomize.apk

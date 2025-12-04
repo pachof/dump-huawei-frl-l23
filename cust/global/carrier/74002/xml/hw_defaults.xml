@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2019-03-15 15:49:40.000-->
+  <string hw_weatherclock_myloc_show_first="false"/>
+  <!--2019-03-15 15:49:40.000-->
+  <string settings.global.forbid_clear_noti="true"/>
+  <!--2019-03-15 15:49:40.000-->
+  <string settings.global.speeddial_predefined_numbers=""/>
+</resources>

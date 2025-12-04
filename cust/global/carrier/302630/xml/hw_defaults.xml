@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2019-05-30 11:55:50.000-->
+  <string duplicate_compare_body="true"/>
+  <!--2019-03-15 15:56:03.000-->
+  <string settings.global.calllog_support_cnap="true"/>
+  <!--2019-03-15 15:56:03.000-->
+  <string settings.global.network_auto_phone="true"/>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="2a8141bd924c7315840a1ebd0c6dbe16">
+  <dict>
+    <!--2019-03-15 16:04:02.000-->
+    <int key="num_match">10</int>
+    <!--2019-03-15 16:04:02.000-->
+    <string key="voicemail_carrier">Verizon Wireless</string>
+    <!--2019-03-15 16:04:02.000-->
+    <string key="voicemail_number">*86</string>
+    <!--2019-03-15 16:04:02.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="096c71a03ae799fc106199d99ba99653">
+  <dict>
+    <!--2019-03-15 16:15:40.000-->
+    <int key="max_message_size">307200</int>
+    <!--2020-06-09 11:22:54.000-->
+    <int key="num_match">8</int>
+    <!--2019-03-15 16:15:40.000-->
+    <int key="sms_to_mms_textthreshold">5</int>
+    <!--2019-03-15 16:15:40.000-->
+    <string key="virtualnet_operatorname">Telmore</string>
+  </dict>
+</config>

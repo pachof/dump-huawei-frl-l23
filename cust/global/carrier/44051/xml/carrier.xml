@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="6d97cb47b018b5acb781a283883b36b2">
+  <dict>
+    <!--2020-05-09 15:08:47.000-->
+    <string key="hide_sepcial_apn_form_list">kddi.lcs,uad5gntrg.au-net.ne.jp,au5gtrg.au-net.ne.jp</string>
+    <!--2019-03-15 15:48:01.000-->
+    <bool key="hw_add_4g_only">true</bool>
+    <!--2019-03-15 15:48:01.000-->
+    <string key="hw_networkname_normal">all,CA:4G;LTE:4G</string>
+    <!--2020-07-20 14:12:46.000-->
+    <string key="hw_nr_onoff_mapping">67,11</string>
+    <!--2019-03-15 15:48:01.000-->
+    <string key="hw_replace_country_code">+81</string>
+    <!--2019-03-15 15:48:01.000-->
+    <int key="num_match">11</int>
+    <!--2019-03-15 15:48:01.000-->
+    <int key="num_match_short">10</int>
+    <!--2019-03-15 15:48:01.000-->
+    <int key="plmn_esm_flag">1</int>
+    <!--2019-03-15 15:48:01.000-->
+    <string key="voicemail_carrier">KDDI</string>
+    <!--2019-03-15 15:48:01.000-->
+    <string key="voicemail_number">1417</string>
+    <!--2019-03-15 15:48:01.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

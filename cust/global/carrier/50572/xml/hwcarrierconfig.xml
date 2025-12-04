@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="beb1da466e4f6c58261a7563512cf291">
+  <dict>
+    <!--2019-03-15 15:56:56.000-->
+    <bool key="carrier_hide_ca_bool">true</bool>
+    <!--2019-03-15 15:56:56.000-->
+    <bool key="groupChatDefaultsToMMS">false</bool>
+    <!--2019-03-15 15:56:56.000-->
+    <int key="maxMessageSize">614400</int>
+    <!--2019-03-15 15:56:56.000-->
+    <array key="read_only_apn_types_string_array">
+      <string></string>
+    </array>
+    <!--2019-03-15 15:56:56.000-->
+    <bool key="useCustomUserAgent">true</bool>
+  </dict>
+</config>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="7d51a5fb3866925ea6209ba6c49c7e43">
+  <dict>
+    <!--2019-03-15 16:26:26.000-->
+    <bool key="hw_remove_2g_only">true</bool>
+    <!--2019-03-15 16:26:26.000-->
+    <string key="hw_replace_country_code">+61</string>
+  </dict>
+</config>

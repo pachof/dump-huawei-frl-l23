@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="b8c2f7b9f9eea089532283d908917dcb">
+  <dict>
+    <!--2019-04-29 19:54:00.000-->
+    <bool key="enabledMMS">false</bool>
+    <!--2019-03-15 16:33:37.000-->
+    <bool key="groupChatDefaultsToMMS">false</bool>
+    <!--2019-03-15 16:33:37.000-->
+    <bool key="smsUsesSimpleCharactersOnly">true</bool>
+  </dict>
+</config>

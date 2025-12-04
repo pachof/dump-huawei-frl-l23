@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="b447bf760cbce0c3e102aa1afe10b0b0">
+  <dict>
+    <!--2019-03-15 16:00:08.000-->
+    <string key="hw_networkname_normal">all,CA:4G</string>
+    <!--2019-03-15 16:00:08.000-->
+    <int key="num_match">8</int>
+    <!--2019-12-26 18:24:04.000-->
+    <int key="plmn_esm_flag">0</int>
+    <!--2019-03-15 16:00:08.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2019-03-15 16:00:08.000-->
+    <int key="set_new_apn_port">8080</int>
+    <!--2019-09-20 10:24:33.000-->
+    <bool key="show_volte_switch_in_nsa">true</bool>
+    <!--2019-03-15 16:00:08.000-->
+    <bool key="support_vn_ecc">true</bool>
+    <!--2019-03-15 16:00:08.000-->
+    <string key="virtualnet_operatorname">Telekom.me</string>
+    <!--2019-03-15 16:00:08.000-->
+    <bool key="vm_edit_not_to_sim_bool">true</bool>
+    <!--2019-03-15 16:00:08.000-->
+    <string key="voicemail_carrier">T-Mobile</string>
+    <!--2019-03-15 16:00:08.000-->
+    <string key="voicemail_number">+3826714077</string>
+    <!--2019-03-15 16:00:08.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

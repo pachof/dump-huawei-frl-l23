@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config hashvalue="272df5b362b4a154a92c87c9efda75ed">
+  <array key="apks">
+    <dict>
+      <array key="cardinfo">
+        <string>432</string>
+        <string>417</string>
+        <string>634</string>
+        <string>467</string>
+        <string>368</string>
+      </array>
+      <int key="actiontype">0</int>
+      <string key="apkpackagename">com.microsoft.translator</string>
+      <string key="apkpath">/hw_product/app/Microsoft_Translator/Microsoft_Translator.apk</string>
+    </dict>
+    <dict>
+      <array key="cardinfo">
+        <string>432</string>
+        <string>417</string>
+        <string>634</string>
+        <string>368</string>
+        <string>467</string>
+      </array>
+      <int key="actiontype">0</int>
+      <string key="apkpackagename">com.microsoft.translator</string>
+      <string key="apkpath">/data/hw_init/hw_product/app/Microsoft_Translator/Microsoft_Translator.apk</string>
+    </dict>
+    <dict>
+      <array key="cardinfo">
+        <string>432</string>
+        <string>417</string>
+        <string>634</string>
+        <string>467</string>
+        <string>368</string>
+      </array>
+      <int key="actiontype">0</int>
+      <string key="apkpackagename">com.microsoft.translator</string>
+      <string key="apkpath">/hw_product/region_comm/oversea/app/Microsoft_Translator/Microsoft_Translator.apk</string>
+    </dict>
+  </array>
+</config>

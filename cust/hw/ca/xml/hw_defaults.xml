@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <!--2019-03-15 16:02:17.000-->
+  <string auto_scan_hidden_ssid="BELL_WIFI;5099251212"/>
+  <!--2019-04-25 21:42:35.000-->
+  <string bip_ota_plmn_matched="302610"/>
+  <!--2019-03-15 16:02:17.000-->
+  <integer eas_default_check_interval="-2"/>
+  <!--2019-03-15 16:02:17.000-->
+  <string hw_launcher_share_layout_config="true"/>
+  <!--2019-03-15 16:02:17.000-->
+  <string hw_set_mtu_by_mccmnc="302610,1500;302630,1500;302640,1500;302660,1500;302370,1500;302780,1500;302220,1440;302221,1440"/>
+  <!--2019-03-15 16:02:17.000-->
+  <string hw_show_lte_tile="false"/>
+  <!--2019-03-15 16:02:17.000-->
+  <integer hw_status_bar_operators="1"/>
+  <!--2020-02-07 11:56:57.000-->
+  <string hw_theme_support_hwid="true"/>
+  <!--2019-03-15 16:02:17.000-->
+  <integer power_saving_on="0"/>
+  <!--2019-07-23 10:38:16.000-->
+  <string reg_plmn_roam_custom="4:302500|302510|302520,302,00000" reset="true"/>
+  <!--2019-03-15 16:02:17.000-->
+  <integer settings.global.data_roaming="0"/>
+  <!--2019-03-15 16:02:17.000-->
+  <integer settings.global.data_roaming_sim2="0"/>
+  <!--2019-03-15 16:02:17.000-->
+  <string settings.global.forbid_clear_noti="true"/>
+  <!--2019-03-15 16:02:17.000-->
+  <string settings.global.hotspot_power_mode_on="true"/>
+  <!--2019-03-15 16:02:17.000-->
+  <string settings.global.nfc_ce_transevt="false"/>
+  <!--2019-03-15 16:02:17.000-->
+  <integer settings.global.sms_center_editable="0"/>
+  <!--2019-03-15 16:02:17.000-->
+  <string settings.global.tty_enable_popup="true"/>
+  <!--2019-03-15 16:02:17.000-->
+  <string settings.global.volte_tty_supported="false"/>
+  <!--2019-03-15 16:02:17.000-->
+  <integer settings.secure.hotspot_power_mode="1"/>
+  <!--2020-02-07 11:56:57.000-->
+  <string theme_no_online="false"/>
+  <!--2019-03-15 16:02:17.000-->
+  <integer tty_enabled="1"/>
+  <!--2019-03-15 16:02:17.000-->
+  <integer voicemailNumber_disabled="1"/>
+  <!--2019-12-30 17:36:06.000-->
+  <string wifi_notdel_notedit="BELL_WIFI;5099251212;SaskTel Select Wi-Fi 1;ShawPasspoint;ShawMobileHotspot"/>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="c25d45c07db331c0e5b48da47f4b4c2f">
+  <dict>
+    <!--2019-03-15 16:45:14.000-->
+    <bool key="groupChatDefaultsToMMS">false</bool>
+    <!--2019-03-15 16:45:14.000-->
+    <int key="smsToMmsTextThreshold">10</int>
+  </dict>
+</config>

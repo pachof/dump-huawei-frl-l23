@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config hashvalue="b0420659f5f8c3b21b1dae765049817f">
+  <dict>
+    <dict key="bookmarks_folders">
+      <array key="bookmarks_folders_language">
+        <dict>
+          <array key="bookmarks">
+            <dict>
+              <string key="title">Vodacom</string>
+              <string key="url">http://vodacom.mobi</string>
+            </dict>
+            <dict>
+              <string key="title">Music</string>
+              <string key="url">http://live.vodacom.co.za/s/music</string>
+            </dict>
+            <dict>
+              <string key="title">Games</string>
+              <string key="url">http://live.vodacom.co.za/s/games</string>
+            </dict>
+            <dict>
+              <string key="title">Chat</string>
+              <string key="url">http://live.vodacom.co.za/s/chat</string>
+            </dict>
+            <dict>
+              <string key="title">Pictures</string>
+              <string key="url">http://live.vodacom.co.za/s/pictures</string>
+            </dict>
+            <dict>
+              <string key="title">News</string>
+              <string key="url">http://live.vodacom.co.za/s/news</string>
+            </dict>
+            <dict>
+              <string key="title">Apps</string>
+              <string key="url">http://vodacom.mobi/apps</string>
+            </dict>
+          </array>
+        </dict>
+      </array>
+    </dict>
+  </dict>
+</config>

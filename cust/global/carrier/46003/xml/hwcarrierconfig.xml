@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="57ae4f260a7185c45ca8fb32e3080704">
+  <dict>
+    <!--2019-03-15 16:13:56.000-->
+    <bool key="preferToUseUT">true</bool>
+    <!--2019-07-19 11:20:57.000-->
+    <bool key="switch_nr_available_bool">true</bool>
+    <!--2019-03-15 16:13:56.000-->
+    <bool key="utCanUseWifi">false</bool>
+  </dict>
+</config>

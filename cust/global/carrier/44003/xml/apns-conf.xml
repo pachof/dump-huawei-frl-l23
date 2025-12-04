@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apns version="8">
+  <apn carrier="iijmio" mcc="440" mnc="03" apn="iijmio.jp" user="mio@iij" server="" password="iij" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="default,supl,ia" authtype="3" protocol="IP"/>
+  <apn carrier="iijmobile" mcc="440" mnc="03" apn="iijmobile.biz" user="mobile@iij" server="" password="iij" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="default,supl,ia" authtype="3" protocol="IP"/>
+  <apn carrier="vmobile" mcc="440" mnc="03" apn="vmobile.jp" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="default,supl,ia" authtype="3" protocol="IP"/>
+</apns>

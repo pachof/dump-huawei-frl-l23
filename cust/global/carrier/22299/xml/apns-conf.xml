@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apns version="8">
+  <apn carrier="INTERNET" mcc="222" mnc="99" apn="internet.it" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="default,supl"/>
+  <apn carrier="MMS" mcc="222" mnc="99" apn="mms.it" user="" server="" password="" proxy="" port="" mmsproxy="mmsproxy.windtre.it" mmsport="8080" mmsc="http://mms.windtre.it" type="mms"/>
+  <apn carrier="VoWifi Xcap" mcc="222" mnc="99" apn="XCAP" user="" server="" password="" proxy="" port="" mmsproxy="" mmsport="" mmsc="" type="xcap" bearer_bitmask="18" protocol="IPV4V6" roaming_protocol="IPV4V6"/>
+</apns>

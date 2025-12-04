@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config hashvalue="e674ce5771637e58ab53aab50c828d0d">
+  <dict>
+    <dict key="bookmarks_folders">
+      <array key="bookmarks_folders_language">
+        <dict>
+          <array key="bookmarks">
+            <dict>
+              <string key="title">WOM</string>
+              <string key="url">http://www.wom.cl</string>
+            </dict>
+            <dict>
+              <string key="title">banco BCI</string>
+              <string key="url">https://www.bci.cl/personas</string>
+            </dict>
+            <dict>
+              <string key="title">servipag </string>
+              <string key="url">https://ww3.servipag.com/pagoenlinea/wcm/connect/desktop/home</string>
+            </dict>
+            <dict>
+              <string key="title">sosafe</string>
+              <string key="url">https://www.sosafeapp.com/</string>
+            </dict>
+            <dict>
+              <string key="title">lipi gas</string>
+              <string key="url">https://www.lipigas.cl/</string>
+            </dict>
+          </array>
+        </dict>
+      </array>
+    </dict>
+  </dict>
+</config>

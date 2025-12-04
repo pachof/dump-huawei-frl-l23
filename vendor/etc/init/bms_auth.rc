@@ -1,0 +1,24 @@
+on early-fs
+    chmod 0660 /sys/devices/virtual/hw_power/charger/direct_charger_sc/af
+    chown system system /sys/devices/virtual/hw_power/charger/direct_charger_sc/af
+    chmod 0660 /sys/devices/virtual/hw_power/charger/wireless_charger/af
+    chown system system /sys/devices/virtual/hw_power/charger/wireless_charger/af
+    chmod 0660 /sys/devices/virtual/hw_power/charger/uvdm_charger/af
+    chown system system /sys/devices/virtual/hw_power/charger/uvdm_charger/af
+
+    start bms_auth
+
+on charger
+    chmod 0660 /sys/devices/virtual/hw_power/charger/direct_charger_sc/af
+    chown system system /sys/devices/virtual/hw_power/charger/direct_charger_sc/af
+    chmod 0660 /sys/devices/virtual/hw_power/charger/wireless_charger/af
+    chown system system /sys/devices/virtual/hw_power/charger/wireless_charger/af
+    chmod 0660 /sys/devices/virtual/hw_power/charger/uvdm_charger/af
+    chown system system /sys/devices/virtual/hw_power/charger/uvdm_charger/af
+
+    start bms_auth
+
+service bms_auth /vendor/bin/bms_auth
+    user system
+    group system
+    disabled

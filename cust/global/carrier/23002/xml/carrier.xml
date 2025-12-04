@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="4d8c399e8b5701831c1b5a5fe35d84e7">
+  <dict>
+    <!--2019-03-15 16:07:23.000-->
+    <int key="max_message_size">307200</int>
+    <!--2019-03-15 16:07:23.000-->
+    <int key="num_match">9</int>
+    <!--2019-03-15 16:07:23.000-->
+    <int key="sms_to_mms_textthreshold">5</int>
+    <!--2019-03-15 16:07:23.000-->
+    <string key="voicemail_carrier">O2</string>
+    <!--2019-03-15 16:07:23.000-->
+    <string key="voicemail_number">+420602999999</string>
+    <!--2019-03-15 16:07:23.000-->
+    <string key="voicemail_tag">voicemail</string>
+  </dict>
+</config>

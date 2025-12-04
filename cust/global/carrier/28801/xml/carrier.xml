@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config hashvalue="439ae3a3028b5b9b43520cad8065ad5e">
+  <dict>
+    <!--2019-03-15 15:44:33.000-->
+    <int key="max_message_size">307200</int>
+    <!--2019-04-24 18:01:57.000-->
+    <int key="num_match">10</int>
+    <!--2019-04-28 18:57:05.000-->
+    <bool key="pre_apn_NotDel">true</bool>
+    <!--2019-04-28 18:57:05.000-->
+    <bool key="pre_apn_unable">true</bool>
+    <!--2019-03-15 15:44:33.000-->
+    <int key="sms_to_mms_textthreshold">5</int>
+  </dict>
+</config>
